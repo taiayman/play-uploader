@@ -1,0 +1,33 @@
+Chaque swipe est un nouveau jeu.
+
+PlayReels est un feed de mini jeux qui se lancent instantanément. Balaie vers le haut pour le suivant, touche pour jouer, rien à installer. Certains ressemblent à de petits mondes Minecraft. D'autres sont des trous noirs dans lesquels tu plonges. D'autres sont très, très bizarres. Et quand une idée te vient, écris une phrase et l'IA la transforme en un vrai jeu jouable en une minute environ.
+
+JOUE
+- Des centaines de mini jeux : runners, arcade, puzzle, réflexes, drift, horreur, et des jeux juste étranges
+- Chaque jeu démarre en quelques secondes, directement dans le feed, sans téléchargement et sans bouffer ton stockage
+- Like un jeu et le feed t'en trouve d'autres du même genre. Passe et il avance
+- De nouveaux jeux IA et créés par les joueurs arrivent chaque jour
+
+CRÉE TON PROPRE JEU EN UNE PHRASE
+- Décris ton idée en langage simple : « un raton laveur qui vole des frites d'un pique-nique avant que la famille le remarque »
+- Le générateur de jeux IA écrit tout sous tes yeux, sans coder et sans moteur de jeu
+- Ajuste-le phrase par phrase : « rends le boss plus rapide », « ajoute une ville néon la nuit »
+- Joues-y d'abord toi-même, puis publie-le
+
+PUBLIE-LE ET REGARDE-LE TOURNER
+- Publie ton jeu directement dans le feed où de vrais joueurs tombent dessus
+- Récolte des parties, des likes et des commentaires sur quelque chose que tu as créé
+- Remixe les jeux des autres à ta façon, ou laisse-les remixer le tien
+- Partage ton meilleur jeu avec tes amis et défie-les de battre ton score
+
+DANS LE FEED EN CE MOMENT
+- PARKOUR CITY : un runner voxel sur les toits
+- VOIDRUNNER : traverse un tunnel à Mach 1
+- GRAVITY WELL : manœuvre autour d'un trou noir et sauve ta cargaison
+- KATANA STORM : tranche des vagues d'ennemis d'un swipe
+- 3AM Call : il est 3 h 01 et Inconnu appelle
+- why is he following me : rentre chez toi à pied, ne te retourne pas
+
+Que tu veuilles cinq minutes de mini jeux rapides ou enfin créer ton propre jeu sans écrire une ligne de code, PlayReels met une salle d'arcade et un studio de jeux dans la même poche. C'est le créateur de jeux IA pour ceux qui préfèrent jouer plutôt que programmer.
+
+Télécharge PlayReels et transforme ton « et si un jeu existait où... » en un jeu auquel tu peux vraiment jouer.

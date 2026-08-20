@@ -34,19 +34,26 @@ async function main() {
   const editId = edit.data.id;
   console.log('edit', editId);
 
-  const read = (f) => fs.readFileSync(path.join(dir, f), 'utf8').trim();
-  await play.edits.listings.update({
-    packageName: pkg,
-    editId,
-    language: 'en-US',
-    requestBody: {
-      language: 'en-US',
-      title: read('en-US/title.txt'),
-      shortDescription: read('en-US/short.txt'),
-      fullDescription: read('en-US/full.txt'),
-    },
-  });
-  console.log('listing text set');
+  // Every subdirectory holding a title.txt is a locale listing (en-US, fr-FR, ...).
+  const locales = fs
+    .readdirSync(dir)
+    .filter((d) => fs.existsSync(path.join(dir, d, 'title.txt')));
+  for (const locale of locales) {
+    const read = (f) =>
+      fs.readFileSync(path.join(dir, locale, f), 'utf8').trim();
+    await play.edits.listings.update({
+      packageName: pkg,
+      editId,
+      language: locale,
+      requestBody: {
+        language: locale,
+        title: read('title.txt'),
+        shortDescription: read('short.txt'),
+        fullDescription: read('full.txt'),
+      },
+    });
+    console.log('listing text set:', locale);
+  }
 
   await play.edits.details.update({
     packageName: pkg,

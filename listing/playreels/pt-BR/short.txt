@@ -1,0 +1,1 @@
+Mini jogos na hora. Escreva uma frase e a IA cria o seu próprio jogo.

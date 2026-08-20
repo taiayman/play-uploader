@@ -1,0 +1,1 @@
+Des mini jeux instantanés. Écris une phrase, l'IA crée ton propre jeu.

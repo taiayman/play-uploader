@@ -1,0 +1,33 @@
+Setiap swipe adalah game baru.
+
+PlayReels adalah feed berisi mini game yang langsung bisa dimainkan. Geser ke atas untuk game berikutnya, ketuk untuk main, tanpa install apa pun. Ada yang mirip dunia kecil Minecraft. Ada black hole yang bisa kamu terbangi. Ada juga yang aneh banget. Dan kalau kamu punya ide sendiri, tulis satu kalimat dan AI mengubahnya jadi game sungguhan yang bisa dimainkan dalam sekitar satu menit.
+
+MAIN
+- Ratusan game pendek: runner, arcade, puzzle, refleks, drift, horor, dan game yang pokoknya aneh
+- Semua game mulai dalam hitungan detik, langsung di feed, tanpa download, tanpa makan memori
+- Suka satu game? Feed mencarikan yang mirip. Lewati saja kalau tidak suka
+- Game AI baru dan game buatan pemain lain muncul setiap hari
+
+BUAT GAME-MU SENDIRI DARI SATU KALIMAT
+- Tulis idemu dengan bahasa biasa: "rakun mencuri kentang goreng dari piknik sebelum ketahuan keluarganya"
+- Generator game AI menulis semuanya sambil kamu tonton, tanpa coding dan tanpa game engine
+- Ubah sedikit demi sedikit: "bikin bos-nya lebih cepat", "tambah kota neon di malam hari"
+- Mainkan dulu sendiri, baru posting
+
+POSTING DAN LIHAT MENYEBAR
+- Publikasikan game-mu langsung ke feed tempat pemain sungguhan menemukannya
+- Kumpulkan jumlah main, like, dan komentar untuk sesuatu yang kamu buat sendiri
+- Remix game orang lain dengan gayamu, atau biarkan mereka me-remix punyamu
+- Bagikan game terbaikmu ke teman dan tantang mereka mengalahkan skormu
+
+YANG ADA DI FEED SEKARANG
+- PARKOUR CITY: runner voxel di atas atap
+- VOIDRUNNER: terbang menembus terowongan dengan Mach 1
+- GRAVITY WELL: bermanuver mengitari black hole dan selamatkan kargomu
+- KATANA STORM: tebas gelombang musuh dengan swipe
+- 3AM Call: jam 3:01 pagi dan Tak Dikenal menelepon
+- why is he following me: jalan pulang, jangan menoleh
+
+Mau lima menit main mini game cepat atau akhirnya bikin game sendiri tanpa menulis satu baris kode pun, PlayReels menaruh arcade dan studio game di kantong yang sama. Inilah pembuat game AI untuk orang yang lebih suka main daripada ngoding.
+
+Download PlayReels dan ubah "gimana kalau ada game yang..." jadi game yang benar-benar bisa kamu mainkan.

@@ -1,0 +1,1 @@
+Anında mini oyunlar. Bir cümle yaz, yapay zeka kendi oyununu yapsın.

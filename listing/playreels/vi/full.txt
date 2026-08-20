@@ -1,0 +1,33 @@
+Mỗi lần vuốt là một game mới.
+
+PlayReels là một feed gồm các mini game chơi ngay lập tức. Vuốt lên để sang game tiếp theo, chạm để chơi, không cần cài gì cả. Có game trông như thế giới Minecraft tí hon. Có game là hố đen để bạn bay vào. Có game thì cực kỳ kỳ quặc. Và khi bạn nảy ra ý tưởng riêng, chỉ cần gõ một dòng, AI sẽ biến nó thành một game thật, chơi được, trong khoảng một phút.
+
+CHƠI
+- Hàng trăm game ngắn: runner, arcade, giải đố, phản xạ, drift, kinh dị và những game lạ lùng khó tả
+- Mọi game khởi động trong vài giây, ngay trong feed, không tải về, không tốn bộ nhớ
+- Thích một game, feed sẽ tìm thêm game tương tự. Bỏ qua, feed sẽ chuyển tiếp
+- Game AI mới và game do người chơi tạo xuất hiện mỗi ngày
+
+TẠO GAME CỦA RIÊNG BẠN TỪ MỘT DÒNG
+- Mô tả ý tưởng bằng lời thường: "một chú gấu mèo trộm khoai tây chiên ở buổi picnic trước khi cả nhà phát hiện"
+- Trình tạo game AI viết toàn bộ trong lúc bạn xem, không cần code, không cần engine
+- Chỉnh từng dòng một: "cho boss nhanh hơn", "thêm thành phố neon về đêm"
+- Tự chơi thử trước, rồi mới đăng
+
+ĐĂNG LÊN VÀ XEM NÓ LAN TỎA
+- Đăng game của bạn thẳng vào feed nơi người chơi thật vuốt trúng nó
+- Thu về lượt chơi, lượt thích và bình luận cho thứ chính bạn làm ra
+- Remix game của người khác theo kiểu của bạn, hoặc để họ remix game của bạn
+- Chia sẻ game hay nhất với bạn bè và thách họ phá kỷ lục của bạn
+
+FEED ĐANG CÓ GÌ
+- PARKOUR CITY: runner voxel trên những mái nhà
+- VOIDRUNNER: bay xuyên đường hầm với tốc độ Mach 1
+- GRAVITY WELL: lượn quanh hố đen và cứu hàng của bạn
+- KATANA STORM: vuốt để chém xuyên từng đợt kẻ địch
+- 3AM Call: 3:01 sáng và Số Lạ đang gọi
+- why is he following me: đi bộ về nhà, đừng ngoái lại
+
+Dù bạn muốn năm phút chơi mini game giải trí hay cuối cùng cũng muốn tự làm game mà không viết một dòng code nào, PlayReels đặt cả khu arcade lẫn một studio game vào cùng một chiếc túi. Đây là công cụ tạo game bằng AI cho những ai thích chơi hơn là lập trình.
+
+Tải PlayReels và biến câu "giá mà có game nào đó..." thành game bạn thật sự chơi được.

@@ -1,0 +1,1 @@
+Mini game langsung main. Tulis satu kalimat, AI membuat game milikmu.
