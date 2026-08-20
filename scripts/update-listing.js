@@ -66,7 +66,13 @@ async function main() {
   });
   console.log('contact details set');
 
+  // Graphics are optional: a text-only listing directory leaves whatever is
+  // already live in the console untouched.
   for (const [file, imageType] of Object.entries(IMAGE_TYPES)) {
+    if (!fs.existsSync(path.join(dir, file))) {
+      console.log('skipping', imageType, '(not in this listing dir)');
+      continue;
+    }
     await play.edits.images.deleteall({ packageName: pkg, editId, language: 'en-US', imageType });
     await play.edits.images.upload({
       packageName: pkg,

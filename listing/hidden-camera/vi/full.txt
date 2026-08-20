@@ -1,0 +1,33 @@
+Máy dò camera ẩn và công cụ tìm camera quay lén: rà soát bất kỳ phòng khách sạn, căn Airbnb hay nhà thuê nào chỉ trong vài phút và phát hiện camera giấu kín, thiết bị nghe lén, máy định vị GPS trước khi chúng phát hiện bạn.
+
+Lo có camera quay lén trong khách sạn, Airbnb, phòng thử đồ, nhà tắm hay căn hộ thuê? Ứng dụng chống quay lén này biến điện thoại của bạn thành máy dò camera ẩn 6 trong 1. Không cần thiết bị rời, không cần tài khoản.
+
+CÁCH ỨNG DỤNG TÌM CAMERA ẨN
+• Quét ống kính bằng AI: hướng camera vào đầu báo khói, đồng hồ, củ sạc hay gấu bông, AI sẽ đánh dấu ống kính đáng ngờ, camera lỗ kim và đèn hồng ngoại.
+• Máy dò hồng ngoại (IR): camera quay lén ban đêm phát ra ánh sáng hồng ngoại mắt thường không thấy. Bộ dò IR làm nó hiện ra.
+• Dò phản quang ống kính: đèn pin kết hợp camera để bắt ánh lóe, đúng cách các đội rà soát chuyên nghiệp vẫn dùng.
+• Máy dò từ trường (EMF): cảm biến từ của điện thoại tìm ra linh kiện điện tử và nam châm giấu trong tường, khe thông gió, gương và đồ trang trí.
+• Quét WiFi: liệt kê mọi thiết bị trong mạng và đánh dấu camera IP không dây cùng phần cứng lạ.
+• Quét Bluetooth: phát hiện thiết bị theo dõi kiểu AirTag, máy ghi GPS, thiết bị nghe lén BLE và các thiết bị lạ quanh bạn.
+
+CHẾ ĐỘ DU LỊCH
+Một chạm sẽ chạy lần lượt các bước kiểm tra từ trường, Bluetooth, WiFi và AI rồi đưa ra báo cáo phòng: An toàn hay Đáng ngờ. Rất hợp khi nhận phòng khách sạn, Airbnb, hostel và nhà nghỉ dưỡng.
+
+VÌ SAO MỌI NGƯỜI DÙNG
+• Kiểm tra phòng khách sạn, Airbnb hoặc nhà nghỉ xem có camera ẩn không
+• Tìm máy định vị GPS hay AirTag giấu trong xe hoặc trong túi
+• Phát hiện camera quay lén ở phòng thử đồ, phòng thay đồ và nhà vệ sinh
+• Rà soát chính nhà, phòng ngủ hoặc văn phòng của bạn để tìm thiết bị nghe lén
+• Bảo vệ quyền riêng tư khi đi du lịch, khi thuê nhà hoặc sau khi chia tay
+
+THÊM NỮA
+• Kết luận rõ ràng An toàn hoặc Đáng ngờ kèm báo cáo AI cho mỗi lần quét
+• Lịch sử quét để xem lại các lần rà soát trước
+• Mẹo rà soát từng phòng (phòng ngủ, nhà tắm, phòng khách, khách sạn)
+• Quét từ trường, hồng ngoại, ống kính và tín hiệu hoạt động 100% ngoại tuyến
+• Tặng kèm trình quét QR và mã vạch
+• Hỗ trợ 15 ngôn ngữ
+
+Máy dò camera ẩn, dò camera quay lén, dò thiết bị nghe lén, dò định vị GPS, dò EMF, dò hồng ngoại, chống theo dõi, tìm camera: tất cả trong một ứng dụng miễn phí.
+
+Đây là công cụ bảo vệ quyền riêng tư và an toàn cá nhân. Không máy dò nào đảm bảo tìm được mọi thiết bị; hãy xem kết quả như thông tin tham khảo và tuân thủ luật pháp địa phương về giám sát và quyền riêng tư.
