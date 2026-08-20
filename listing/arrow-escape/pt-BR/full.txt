@@ -1,0 +1,42 @@
+Nem toda seta consegue sair. Toque na errada e um coração se vai: você tem três. Limpe o tabuleiro inteiro e o emaranhado some. Fácil de aprender. Nada fácil de terminar.
+
+Arrow Escape é um quebra-cabeça de tocar setas. Cada tabuleiro é preenchido de ponta a ponta com setas sinuosas, e uma seta só voa para fora quando nada bloqueia o caminho dela. Leia o emaranhado. Ache a que está livre. Toque e veja ela sair.
+
+Depois ache a próxima.
+
+POR QUE PRENDE
+- Não dá para jogar no piloto automático. Cada toque é uma decisão.
+- As setas saem com uma vibração curtinha e o tabuleiro esvazia. Parar em um nível só é a parte difícil.
+- Muitos níveis abrem com exatamente uma jogada segura. Achar essa jogada parece decifrar um código.
+- Nada está correndo contra você. Fique uma hora no mesmo nível se quiser.
+
+COMO JOGAR
+- Toque em uma seta para lançá-la para fora do tabuleiro na direção que ela aponta.
+- A seta só sai se o caminho até a borda estiver livre.
+- Tocar em uma seta bloqueada custa um dos seus 3 corações.
+- Uma seta que esbarrou em outra fica vermelha, e tocar de novo em uma vermelha é de graça.
+- Perdeu os três corações, o tabuleiro reinicia. Pense antes de tocar.
+- Os tabuleiros crescem. Dê pinça para dar zoom quando o labirinto passar da tela.
+- Travado? Uma dica destaca uma seta que pode escapar com segurança.
+
+100 FASES QUE MUDAM DE FORMA
+Os tabuleiros não são quadrados. São corações, coroas, borboletas, estrelas, trevos, escudos e diamantes, cada um coberto de setas e mais embolado que o anterior. As setas percorrem o tabuleiro em longos caminhos de cobra, então cada fase é um nó novo para ler. A fase 1 tem três setas. A fase 100 tem setenta e três.
+
+O QUE REALMENTE DEIXA DIFÍCIL
+Não é o tamanho do labirinto, é quão poucas setas estão livres. O tabuleiro mais fechado do jogo te dá um toque certo e setenta errados, e cada erro é um coração. Essa é a tensão do quebra-cabeça de setas: você não procura uma jogada esperta, procura a única jogada.
+
+DUELOS 1v1 ONLINE
+Toque em Jogar online e entre na fila com outros jogadores. Vocês dois recebem exatamente o mesmo tabuleiro: quem limpar primeiro vence. Ao vivo, sem turnos. Sendo sincero: é um jogo pequeno, então a fila nem sempre está cheia. Quando não tem ninguém, corra contra o rival fantasma ou siga a campanha offline. As vitórias entram no ranking global.
+
+SEM ENROLAÇÃO
+- Um vídeo opcional, só quando você pede uma dica. É o único anúncio do jogo.
+- Sem anúncios forçados entre as fases. Sem banners. Sem pop-ups.
+- Sem cronômetro. Sem sistema de energia. Sem vidas que recarregam. Sem paywall.
+- Funciona totalmente offline. Modo avião, túnel, sem wi-fi: a campanha continua.
+- Download pequeno. Tema claro e escuro. Design plano e monocromático.
+- Retrato, um polegar, sem criar conta.
+
+PARA QUEM CURTE
+Quebra-cabeças de setas e jogos de tocar para esvaziar o tabuleiro. Puzzles de lógica estilo desbloquear, labirintos de setas e jogos de raciocínio para jogar com uma mão só. Puzzles minimalistas sem barulho e sem ninguém gritando para você comprar algo.
+
+Um tabuleiro. Um emaranhado de setas. Ache a que está livre.

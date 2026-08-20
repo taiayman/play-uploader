@@ -1,0 +1,1 @@
+Toca las flechas para escapar del laberinto. Un toque malo cuesta un corazón.

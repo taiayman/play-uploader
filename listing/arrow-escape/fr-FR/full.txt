@@ -1,0 +1,42 @@
+Toutes les flèches ne peuvent pas partir. Touche la mauvaise et un cœur disparaît : tu en as trois. Vide le plateau entier et l'enchevêtrement s'efface. Simple à apprendre. Pas simple à finir.
+
+Arrow Escape est un puzzle où l'on touche des flèches. Chaque plateau est rempli de flèches sinueuses, et une flèche ne s'envole que si rien ne barre son chemin. Lis l'enchevêtrement. Trouve celle qui est libre. Touche-la et regarde-la partir.
+
+Puis trouve la suivante.
+
+POURQUOI ÇA ACCROCHE
+- Impossible de jouer en pilote automatique. Chaque tap est une décision.
+- Les flèches partent avec une petite vibration et le plateau se vide. Le plus dur, c'est de s'arrêter à un niveau.
+- Beaucoup de niveaux n'offrent qu'un seul coup sûr au départ. Le repérer, c'est comme casser un code.
+- Rien ne décompte. Reste une heure sur un niveau si tu veux.
+
+COMMENT JOUER
+- Touche une flèche pour l'envoyer hors du plateau dans la direction qu'elle indique.
+- Une flèche ne peut sortir que si son chemin jusqu'au bord est dégagé.
+- Toucher une flèche bloquée coûte un de tes 3 cœurs.
+- Une flèche qui en a heurté une autre devient rouge, et retoucher une rouge est gratuit.
+- Perds tes trois cœurs et le plateau redémarre. Réfléchis, puis touche.
+- Les plateaux s'agrandissent. Pince pour zoomer quand le labyrinthe dépasse l'écran.
+- Bloqué ? Un indice met en surbrillance une flèche qui peut s'échapper sans risque.
+
+100 NIVEAUX QUI CHANGENT DE FORME
+Les plateaux ne sont pas des carrés. Ce sont des cœurs, des couronnes, des papillons, des étoiles, des trèfles, des boucliers et des diamants, chacun pavé de flèches et plus noué que le précédent. Les flèches serpentent en longs chemins, donc chaque niveau est un nouvel enchevêtrement à déchiffrer. Le niveau 1 compte trois flèches. Le niveau 100 en compte soixante-treize.
+
+CE QUI REND ÇA DIFFICILE
+Pas la taille du labyrinthe, mais le peu de flèches réellement libres. Le plateau le plus serré du jeu te laisse un coup légal et soixante-dix mauvais, et chaque erreur coûte un cœur. C'est toute la tension d'un puzzle de flèches : tu ne cherches pas un coup malin, tu cherches le seul coup possible.
+
+DUELS 1v1 EN LIGNE
+Touche Jouer en ligne et rejoins la file avec d'autres joueurs. Vous recevez exactement le même plateau : le premier à le vider gagne. En direct, sans tour par tour. Soyons honnêtes : c'est un petit jeu, la file n'est pas toujours pleine. Quand il n'y a personne, affronte le rival fantôme ou continue la campagne hors ligne. Les victoires comptent dans le classement mondial.
+
+SANS ARNAQUE
+- Une vidéo facultative, seulement si tu demandes un indice. C'est la seule pub du jeu.
+- Aucune pub forcée entre les niveaux. Aucune bannière. Aucun pop-up.
+- Pas de minuteur. Pas de système d'énergie. Pas de vies qui se rechargent. Pas de paywall.
+- Fonctionne entièrement hors ligne. Mode avion, tunnel, sans wifi : la campagne continue.
+- Petit téléchargement. Thème clair et sombre. Design plat et monochrome.
+- Portrait, un seul pouce, aucun compte à créer.
+
+POUR CEUX QUI AIMENT
+Les puzzles de flèches et les jeux où l'on tape pour vider le plateau. Les casse-têtes de logique style déblocage, les labyrinthes de flèches et les jeux de réflexion à une main. Les puzzles minimalistes sans bruit et sans personne qui te crie d'acheter quelque chose.
+
+Un plateau. Un enchevêtrement de flèches. Trouve celle qui est libre.

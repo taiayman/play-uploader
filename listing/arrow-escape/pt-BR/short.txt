@@ -1,0 +1,1 @@
+Toque nas setas para escapar do labirinto. Um toque errado custa um coração.

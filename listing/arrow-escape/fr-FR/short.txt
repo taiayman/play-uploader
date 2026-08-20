@@ -1,0 +1,1 @@
+Touche les flèches pour sortir du labyrinthe. Une erreur coûte un cœur.

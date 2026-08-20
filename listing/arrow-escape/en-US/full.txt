@@ -1,0 +1,49 @@
+Not every arrow can move. Tap the wrong one and a heart is gone - you get three. Clear the whole board and the tangle disappears. Simple to learn. Not simple to finish.
+
+Arrow Escape is a tap arrows puzzle. Every board is packed edge to edge with winding arrows, and an arrow only flies off when nothing is standing in its path. Read the tangle. Find the one that is free. Tap it and watch it go.
+
+Then find the next one.
+
+WHY IT GETS YOU
+- You cannot play this one on autopilot. Every tap is a decision.
+- Arrows leave with a little bump of haptic feedback and the board empties. Stopping at one level is the hard part.
+- Plenty of levels open with exactly one safe move. Spotting it feels like cracking something.
+- Nothing is counting down. Sit on a level for an hour if you want.
+
+HOW TO PLAY
+- Tap an arrow to send it flying off the board in the direction it points.
+- An arrow can only leave if its path to the edge is clear.
+- Tap a blocked arrow and it costs one of your 3 hearts.
+- An arrow that bumped another arrow turns red, and tapping a red one again is free.
+- Lose all three hearts and the board resets. Think first, then tap.
+- Boards get big. Pinch to zoom when the maze runs past the screen.
+- Stuck? A hint appears and highlights one arrow that can safely escape. Take it with a short video, or wave it away.
+
+100 LEVELS THAT KEEP CHANGING SHAPE
+The boards are not squares. They are hearts, crowns, butterflies, stars, clovers, shields and diamonds, each one tiled edge to edge with arrows, each one knottier than the last. The arrows wind across the board in long snake-like paths, so every snake arrow puzzle level is a fresh tangle to read. Level 1 is three arrows. Level 100 is seventy-three.
+
+WHAT ACTUALLY MAKES IT HARD
+Not the size of the maze. How few arrows are free. The tightest board in the game gives you one legal tap and seventy wrong ones, and every wrong one is a heart. That is the whole tension of an arrow puzzle: you are not hunting for a clever move, you are hunting for the only move. Find it and the next one opens up. Miss it three times and you start the board again.
+
+A FEW THINGS THAT HELP
+- Trace the line first. Follow the arrow out to the edge and check nothing crosses it.
+- Work the rim inwards. Arrows on the outside usually have the shortest run to freedom.
+- When two arrows block each other, look for whatever is pinning the other one.
+- Zoom out before you commit. Half the wrong taps in this game are arrows you could not see the end of.
+
+ONLINE 1v1 DUELS
+Tap Play online and you join a queue with other players. Get matched and you both get the exact same board - first to clear it wins. Head to head, live, no turns, no waiting for anyone else to move. Being straight with you: this is a small game, so the online multiplayer queue is not always busy. When nobody is around you can race the ghost rival instead, or carry on with the campaign offline. Duel wins go on a global leaderboard.
+
+NO NONSENSE
+- One optional video, only when you ask for a hint. That is the only ad in the game.
+- No forced ads between levels. No banners. No pop-ups.
+- No timers. No energy system. No lives that refill in thirty minutes. No paywall.
+- Plays fully offline. Airplane mode, tunnel, no wifi - the whole campaign still works.
+- Small download. No waiting on a huge update before you can play.
+- Light and dark mode. Flat monochrome design, nothing flashing at you.
+- Portrait, one thumb, no account to create.
+
+FOR PEOPLE WHO LIKE
+Arrow puzzle and tap away puzzle games. Tap out puzzles, arrows out puzzles and unblock-style logic puzzles. Arrow maze games where you clear the grid one tap at a time. Brain puzzle and brain teaser games you can play one-handed on the sofa. Minimalist puzzle games with no clutter, no noise and no one shouting at you to buy something. If clearing a board until nothing is left is your idea of a good evening, Arrow Escape is that, with a price for guessing.
+
+One board. A tangle of arrows. Find the free one.

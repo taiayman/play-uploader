@@ -1,0 +1,42 @@
+Tidak semua panah bisa keluar. Ketuk yang salah dan satu hati hilang: kamu punya tiga. Bersihkan seluruh papan dan kekusutan itu lenyap. Mudah dipelajari. Tidak mudah diselesaikan.
+
+Arrow Escape adalah teka-teki mengetuk panah. Setiap papan penuh panah berkelok dari ujung ke ujung, dan sebuah panah baru melesat keluar kalau tidak ada yang menghalangi jalurnya. Baca kekusutannya. Temukan yang bebas. Ketuk dan lihat dia pergi.
+
+Lalu cari yang berikutnya.
+
+KENAPA BIKIN NAGIH
+- Tidak bisa dimainkan sambil melamun. Setiap ketukan adalah keputusan.
+- Panah pergi dengan getaran kecil dan papan makin kosong. Bagian tersulitnya justru berhenti setelah satu level.
+- Banyak level dibuka dengan tepat satu langkah aman. Menemukannya terasa seperti memecahkan kode.
+- Tidak ada hitung mundur. Duduki satu level sejam pun boleh.
+
+CARA MAIN
+- Ketuk panah untuk melesatkannya keluar papan sesuai arah yang ditunjuk.
+- Panah hanya bisa keluar kalau jalurnya ke tepi papan bersih.
+- Mengetuk panah yang terhalang memakan satu dari 3 hatimu.
+- Panah yang menabrak panah lain berubah merah, dan mengetuk yang merah lagi itu gratis.
+- Habis tiga hati, papan diulang. Pikir dulu, baru ketuk.
+- Papan makin besar. Cubit layar untuk zoom saat labirin melewati batas layar.
+- Buntu? Petunjuk akan menyorot satu panah yang pasti bisa lolos.
+
+100 LEVEL YANG TERUS BERGANTI BENTUK
+Papannya bukan kotak. Ada hati, mahkota, kupu-kupu, bintang, semanggi, perisai, dan berlian, semuanya dipenuhi panah dan makin ruwet dari level ke level. Panah menjalar di papan seperti ular panjang, jadi tiap level adalah simpul baru untuk dibaca. Level 1 berisi tiga panah. Level 100 berisi tujuh puluh tiga.
+
+APA YANG BIKIN SUSAH
+Bukan ukuran labirinnya, tapi betapa sedikit panah yang benar-benar bebas. Papan tersempit di game ini memberi satu ketukan benar dan tujuh puluh ketukan salah, dan tiap kesalahan adalah satu hati. Itulah seluruh ketegangan teka-teki panah: kamu bukan mencari langkah pintar, kamu mencari satu-satunya langkah.
+
+DUEL 1v1 ONLINE
+Ketuk Main online dan masuk antrean bersama pemain lain. Kalian berdua dapat papan yang persis sama: siapa cepat membersihkan, dia menang. Langsung, tanpa giliran. Terus terang: ini game kecil, jadi antreannya tidak selalu ramai. Kalau sepi, balapan lawan rival bayangan atau lanjut kampanye offline. Kemenangan masuk papan peringkat global.
+
+TANPA BASA-BASI
+- Satu video opsional, hanya kalau kamu minta petunjuk. Itu satu-satunya iklan di game ini.
+- Tidak ada iklan paksa antar level. Tidak ada banner. Tidak ada pop-up.
+- Tidak ada timer. Tidak ada sistem energi. Tidak ada nyawa yang harus menunggu isi ulang. Tidak ada paywall.
+- Jalan sepenuhnya offline. Mode pesawat, terowongan, tanpa wifi: kampanye tetap bisa dimainkan.
+- Ukuran unduhan kecil. Mode terang dan gelap. Desain datar monokrom.
+- Potret, satu jempol, tanpa bikin akun.
+
+UNTUK KAMU YANG SUKA
+Teka-teki panah dan game ketuk untuk mengosongkan papan. Puzzle logika ala unblock, labirin panah, dan game asah otak satu tangan. Puzzle minimalis tanpa berisik dan tanpa ada yang memaksamu belanja.
+
+Satu papan. Segulung panah. Temukan yang bebas.

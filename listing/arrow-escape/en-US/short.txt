@@ -1,0 +1,1 @@
+Tap away arrows to escape the maze. One wrong tap costs a heart. No timers.
