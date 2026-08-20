@@ -1,0 +1,35 @@
+name: Upload AAB to Google Play
+
+on:
+  workflow_dispatch:
+    inputs:
+      package:
+        description: "Package name (applicationId)"
+        required: true
+      aab:
+        description: "Path to AAB inside releases/"
+        required: true
+      track:
+        description: "Track: internal | beta | production"
+        required: true
+        default: "production"
+      whatsnew:
+        description: "Path to whatsnew directory (optional)"
+        required: false
+        default: ""
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload to Google Play
+        uses: r0adkll/upload-google-play@v1.1.3
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+          packageName: ${{ github.event.inputs.package }}
+          releaseFiles: ${{ github.event.inputs.aab }}
+          track: ${{ github.event.inputs.track }}
+          status: completed
+          whatsNewDirectory: ${{ github.event.inputs.whatsnew }}
