@@ -1,0 +1,21 @@
+name: Fetch Play store listings
+
+on:
+  workflow_dispatch:
+    inputs:
+      package:
+        description: "Package name"
+        required: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install googleapis@144
+      - run: node scripts/fetch-listings.js "${{ github.event.inputs.package }}"
+        env:
+          SERVICE_ACCOUNT_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
