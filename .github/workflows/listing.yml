@@ -1,0 +1,24 @@
+name: Update Play store listing
+
+on:
+  workflow_dispatch:
+    inputs:
+      package:
+        description: "Package name"
+        required: true
+      dir:
+        description: "Listing directory (texts + graphics + screenshots)"
+        required: true
+
+jobs:
+  listing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install googleapis@144
+      - run: node scripts/update-listing.js "${{ github.event.inputs.package }}" "${{ github.event.inputs.dir }}"
+        env:
+          SERVICE_ACCOUNT_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
