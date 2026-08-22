@@ -8,7 +8,7 @@ const [pkg] = process.argv.slice(2);
 if (!pkg) { console.error('usage: node sync-images.js <package>'); process.exit(1); }
 
 const IMAGE_TYPES = ['phoneScreenshots', 'sevenInchScreenshots', 'tenInchScreenshots',
-  'icon', 'featureGraphic', 'promoGraphic', 'tvBanner', 'tvScreenshots', 'wearScreenshots'];
+  'icon', 'featureGraphic', 'tvBanner', 'tvScreenshots', 'wearScreenshots'];
 
 async function main() {
   const auth = new google.auth.GoogleAuth({
