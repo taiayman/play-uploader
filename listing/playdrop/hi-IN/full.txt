@@ -1,40 +1,40 @@
-PlayDrop is a play-to-earn app: play quick games, answer short surveys, collect coins, and cash out to PayPal, USDT or mobile top-up. No purchases, no investment, no tricks. Coins are credited on our servers after every round, so what you see is what you get.
+PlayDrop एक खेलो और कमाओ ऐप है: छोटे गेम खेलो, छोटे सर्वे भरो, कॉइन जमा करो और PayPal, USDT या मोबाइल रिचार्ज में निकालो। कोई खरीदारी नहीं, कोई निवेश नहीं, कोई चालाकी नहीं। हर राउंड के बाद कॉइन हमारे सर्वर पर जमा होते हैं, यानी जो दिखता है वही मिलता है।
 
-HOW IT WORKS
-1. Open the app. No sign-up, no email, you start playing instantly.
-2. Play a round of Skyline, Slipstream or Merge 2048, or answer a survey. Coins land in your balance right after each round.
-3. Redeem. 10,000 coins = $1, fixed rate, and every request is paid within 48 hours.
+कैसे काम करता है
+1. ऐप खोलो। न साइन-अप, न ईमेल, तुरंत खेलना शुरू।
+2. Skyline, Slipstream या Merge 2048 का एक राउंड खेलो, या एक सर्वे भरो। हर राउंड के तुरंत बाद कॉइन बैलेंस में आ जाते हैं।
+3. रिडीम करो। 10,000 कॉइन = $1, फिक्स रेट, और हर रिक्वेस्ट 48 घंटे के अंदर पेमेंट।
 
-FOUR WAYS TO EARN COINS
-🏗️ Skyline: stack a tower on a swinging crane. Higher tower, more coins.
-✈️ Slipstream: fly through a canyon, dodge the walls, collect the gates.
-🔢 Merge 2048: the classic merge puzzle, now it pays you coins.
-📋 Surveys: two-minute questions, paid on completion.
+कॉइन कमाने के चार तरीके
+🏗️ Skyline: झूलती क्रेन से टावर बनाओ। टावर जितना ऊंचा, कॉइन उतने ज़्यादा।
+✈️ Slipstream: घाटी में उड़ो, दीवारों से बचो, गेट पार करो।
+🔢 Merge 2048: क्लासिक मर्ज पज़ल, अब कॉइन भी देता है।
+📋 सर्वे: दो मिनट के सवाल, पूरा करते ही पेमेंट।
 
-DAILY BONUS AND STREAKS
-Open the app every day and claim a daily bonus. Keep a 7-day streak and the bonus grows each day, from 25 coins on day one up to 150 on day seven. Miss a day and it resets, so come back.
+डेली बोनस और स्ट्रीक
+रोज़ ऐप खोलो और डेली बोनस लो। 7 दिन की स्ट्रीक रखो और बोनस हर दिन बढ़ता है, पहले दिन 25 कॉइन से सातवें दिन 150 तक। एक दिन छूटा तो स्ट्रीक रीसेट, इसलिए रोज़ आओ।
 
-2X BOOST
-Watch one short ad to double the coins from every round for 30 minutes. Best used right before a long session.
+2X बूस्ट
+एक छोटा विज्ञापन देखो और 30 मिनट तक हर राउंड के कॉइन डबल। लंबे सेशन से ठीक पहले सबसे फायदेमंद।
 
-INVITE FRIENDS, EARN TOGETHER
-Share your invite link. You earn 15% of what your friends earn, 10% from their friends and 5% from the next level, on top of your own play. Friends get a welcome bonus after their first three rounds. Climb the referral leaderboard.
+दोस्तों को बुलाओ, साथ में कमाओ
+अपना इनवाइट लिंक शेयर करो। तुम्हें अपने दोस्तों की कमाई का 15%, उनके दोस्तों का 10% और अगले लेवल का 5% मिलता है, अपने खेल के ऊपर से। दोस्तों को पहले तीन राउंड के बाद वेलकम बोनस मिलता है। रेफरल लीडरबोर्ड में ऊपर चढ़ो।
 
-CASH OUT YOUR WAY
-💳 PayPal: sent to your PayPal email.
-₿ USDT (TRC20): crypto payout straight to your wallet.
-📱 Mobile top-up: airtime or phone credit for your number.
-Tiers from $1 to $20. Fixed rate, no hidden fees, no minimum playtime. A full withdrawal history and coin ledger are in your profile so you can check every credit.
+अपने तरीके से निकालो
+💳 PayPal: तुम्हारे PayPal ईमेल पर।
+₿ USDT (TRC20): क्रिप्टो सीधे तुम्हारे वॉलेट में।
+📱 मोबाइल रिचार्ज: तुम्हारे नंबर पर टॉक-टाइम या बैलेंस।
+$1 से $20 तक के विकल्प। फिक्स रेट, कोई छुपा चार्ज नहीं, कोई न्यूनतम खेलने का समय नहीं। पूरा विदड्रॉल इतिहास और कॉइन लेजर तुम्हारी प्रोफाइल में है, हर क्रेडिट चेक कर सकते हो।
 
-FAIR AND TRANSPARENT
-Every coin is credited server-side with per-game and daily caps, the same for everyone. The caps keep the rewards sustainable so we can keep paying. There is nothing to buy in PlayDrop and no way to spend money, only to earn it. You can delete your account and data at any time from the profile screen.
+निष्पक्ष और पारदर्शी
+हर कॉइन सर्वर पर जमा होता है, हर गेम और हर दिन की सीमा के साथ, सबके लिए एक जैसी। ये सीमाएं इनाम को टिकाऊ रखती हैं ताकि हम पेमेंट करते रहें। PlayDrop में खरीदने को कुछ नहीं और पैसे खर्च करने का कोई तरीका नहीं, सिर्फ कमाने का। प्रोफाइल स्क्रीन से कभी भी अपना अकाउंट और डेटा डिलीट कर सकते हो।
 
-WHO IS PLAYDROP FOR
-Anyone who wants to make money in spare minutes: waiting for a bus, on a break, before bed. If you like apps that reward you for playing games or answering surveys, PlayDrop gives you the same idea with a faster first payout and payout options that work worldwide, including mobile recharge.
+PlayDrop किसके लिए है
+जो भी खाली मिनटों में पैसे कमाना चाहता है: बस के इंतज़ार में, ब्रेक में, सोने से पहले। अगर तुम्हें गेम खेलने या सर्वे भरने पर इनाम देने वाले ऐप पसंद हैं, तो PlayDrop वही आइडिया देता है, तेज़ पहले पेमेंट और दुनिया भर में चलने वाले विदड्रॉल विकल्पों के साथ, मोबाइल रिचार्ज समेत। बिना निवेश के पैसे कमाने का ऐप।
 
-Download PlayDrop, play a round, and see coins in your balance before you finish reading this.
+PlayDrop डाउनलोड करो, एक राउंड खेलो, और यह पढ़ना खत्म करने से पहले बैलेंस में कॉइन देखो।
 
-Support and legal
-Privacy: https://playdrop-legal.surge.sh/privacy.html
-Terms: https://playdrop-legal.surge.sh/terms.html
-PlayDrop is not affiliated with PayPal, Tether or any mobile carrier. Earnings depend on activity and daily caps and are not guaranteed income.
+सहायता और कानूनी
+प्राइवेसी: https://playdrop-legal.surge.sh/privacy.html
+शर्तें: https://playdrop-legal.surge.sh/terms.html
+PlayDrop का PayPal, Tether या किसी मोबाइल ऑपरेटर से कोई संबंध नहीं है। कमाई गतिविधि और दैनिक सीमा पर निर्भर है और गारंटीड आय नहीं है।

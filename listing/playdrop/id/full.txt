@@ -1,40 +1,40 @@
-PlayDrop is a play-to-earn app: play quick games, answer short surveys, collect coins, and cash out to PayPal, USDT or mobile top-up. No purchases, no investment, no tricks. Coins are credited on our servers after every round, so what you see is what you get.
+PlayDrop adalah aplikasi main game dapat uang: mainkan game singkat, jawab survei pendek, kumpulkan koin, lalu tarik ke PayPal, USDT, atau pulsa. Tanpa pembelian, tanpa investasi, tanpa tipu-tipu. Koin dicatat di server kami setelah setiap ronde, jadi yang kamu lihat itulah yang kamu dapat.
 
-HOW IT WORKS
-1. Open the app. No sign-up, no email, you start playing instantly.
-2. Play a round of Skyline, Slipstream or Merge 2048, or answer a survey. Coins land in your balance right after each round.
-3. Redeem. 10,000 coins = $1, fixed rate, and every request is paid within 48 hours.
+CARA KERJANYA
+1. Buka aplikasi. Tanpa daftar, tanpa email, langsung main.
+2. Mainkan satu ronde Skyline, Slipstream, atau Merge 2048, atau jawab survei. Koin masuk ke saldo tepat setelah setiap ronde.
+3. Tukarkan. 10.000 koin = US$1, kurs tetap, dan setiap permintaan dibayar dalam 48 jam.
 
-FOUR WAYS TO EARN COINS
-🏗️ Skyline: stack a tower on a swinging crane. Higher tower, more coins.
-✈️ Slipstream: fly through a canyon, dodge the walls, collect the gates.
-🔢 Merge 2048: the classic merge puzzle, now it pays you coins.
-📋 Surveys: two-minute questions, paid on completion.
+EMPAT CARA MENGUMPULKAN KOIN
+🏗️ Skyline: susun menara dengan derek yang berayun. Makin tinggi menara, makin banyak koin.
+✈️ Slipstream: terbang melewati ngarai, hindari dinding, lewati gerbang.
+🔢 Merge 2048: puzzle gabung angka klasik, sekarang memberi koin.
+📋 Survei: pertanyaan dua menit, dibayar setelah selesai.
 
-DAILY BONUS AND STREAKS
-Open the app every day and claim a daily bonus. Keep a 7-day streak and the bonus grows each day, from 25 coins on day one up to 150 on day seven. Miss a day and it resets, so come back.
+BONUS HARIAN DAN STREAK
+Buka aplikasi setiap hari dan klaim bonus harian. Pertahankan streak 7 hari dan bonusnya naik setiap hari, dari 25 koin di hari pertama sampai 150 di hari ketujuh. Lewat satu hari, streak kembali ke awal, jadi jangan lupa kembali.
 
-2X BOOST
-Watch one short ad to double the coins from every round for 30 minutes. Best used right before a long session.
+BOOST 2X
+Tonton satu iklan singkat untuk menggandakan koin dari setiap ronde selama 30 menit. Paling pas dipakai sebelum sesi main yang panjang.
 
-INVITE FRIENDS, EARN TOGETHER
-Share your invite link. You earn 15% of what your friends earn, 10% from their friends and 5% from the next level, on top of your own play. Friends get a welcome bonus after their first three rounds. Climb the referral leaderboard.
+UNDANG TEMAN, DAPAT BARENG
+Bagikan tautan undanganmu. Kamu dapat 15% dari koin yang dikumpulkan temanmu, 10% dari teman mereka, dan 5% dari level berikutnya, di luar hasil mainmu sendiri. Teman mendapat bonus sambutan setelah tiga ronde pertama. Naik ke papan peringkat referral.
 
-CASH OUT YOUR WAY
-💳 PayPal: sent to your PayPal email.
-₿ USDT (TRC20): crypto payout straight to your wallet.
-📱 Mobile top-up: airtime or phone credit for your number.
-Tiers from $1 to $20. Fixed rate, no hidden fees, no minimum playtime. A full withdrawal history and coin ledger are in your profile so you can check every credit.
+TARIK SESUKAMU
+💳 PayPal: dikirim ke email PayPal-mu.
+₿ USDT (TRC20): pembayaran kripto langsung ke dompetmu.
+📱 Pulsa: isi pulsa ke nomormu.
+Pilihan US$1 sampai US$20. Kurs tetap, tanpa biaya tersembunyi, tanpa minimal waktu main. Riwayat penarikan lengkap dan catatan koin ada di profilmu, jadi setiap kredit bisa dicek.
 
-FAIR AND TRANSPARENT
-Every coin is credited server-side with per-game and daily caps, the same for everyone. The caps keep the rewards sustainable so we can keep paying. There is nothing to buy in PlayDrop and no way to spend money, only to earn it. You can delete your account and data at any time from the profile screen.
+ADIL DAN TRANSPARAN
+Setiap koin dicatat di server dengan batas per game dan per hari, sama untuk semua orang. Batas ini menjaga hadiah tetap berkelanjutan supaya kami bisa terus membayar. Tidak ada yang perlu dibeli di PlayDrop dan tidak ada cara mengeluarkan uang, hanya mendapatkannya. Kamu bisa menghapus akun dan datamu kapan saja dari layar profil.
 
-WHO IS PLAYDROP FOR
-Anyone who wants to make money in spare minutes: waiting for a bus, on a break, before bed. If you like apps that reward you for playing games or answering surveys, PlayDrop gives you the same idea with a faster first payout and payout options that work worldwide, including mobile recharge.
+UNTUK SIAPA PLAYDROP
+Siapa pun yang ingin dapat uang di waktu luang: menunggu angkot, saat istirahat, sebelum tidur. Kalau kamu suka aplikasi yang memberi hadiah untuk main game atau isi survei, PlayDrop menawarkan ide yang sama dengan pembayaran pertama yang lebih cepat dan pilihan penarikan yang berlaku di seluruh dunia, termasuk pulsa.
 
-Download PlayDrop, play a round, and see coins in your balance before you finish reading this.
+Unduh PlayDrop, mainkan satu ronde, dan lihat koin masuk ke saldomu sebelum selesai membaca ini.
 
-Support and legal
-Privacy: https://playdrop-legal.surge.sh/privacy.html
-Terms: https://playdrop-legal.surge.sh/terms.html
-PlayDrop is not affiliated with PayPal, Tether or any mobile carrier. Earnings depend on activity and daily caps and are not guaranteed income.
+Dukungan dan ketentuan
+Privasi: https://playdrop-legal.surge.sh/privacy.html
+Ketentuan: https://playdrop-legal.surge.sh/terms.html
+PlayDrop tidak berafiliasi dengan PayPal, Tether, atau operator seluler mana pun. Penghasilan bergantung pada aktivitas dan batas harian, bukan pendapatan yang dijamin.

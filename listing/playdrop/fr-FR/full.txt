@@ -1,40 +1,40 @@
-PlayDrop is a play-to-earn app: play quick games, answer short surveys, collect coins, and cash out to PayPal, USDT or mobile top-up. No purchases, no investment, no tricks. Coins are credited on our servers after every round, so what you see is what you get.
+PlayDrop est une appli pour jouer et gagner : jouez à des parties rapides, répondez à des sondages courts, collectez des pièces et retirez vos gains par PayPal, USDT ou recharge mobile. Pas d'achat, pas d'investissement, pas de piège. Les pièces sont créditées sur nos serveurs après chaque partie : ce que vous voyez, c'est ce que vous recevez.
 
-HOW IT WORKS
-1. Open the app. No sign-up, no email, you start playing instantly.
-2. Play a round of Skyline, Slipstream or Merge 2048, or answer a survey. Coins land in your balance right after each round.
-3. Redeem. 10,000 coins = $1, fixed rate, and every request is paid within 48 hours.
+COMMENT ÇA MARCHE
+1. Ouvrez l'appli. Pas d'inscription, pas d'e-mail, vous jouez tout de suite.
+2. Faites une partie de Skyline, Slipstream ou Merge 2048, ou répondez à un sondage. Les pièces arrivent sur votre solde juste après chaque partie.
+3. Retirez. 10 000 pièces = 1 $ US, taux fixe, et chaque demande est payée sous 48 heures.
 
-FOUR WAYS TO EARN COINS
-🏗️ Skyline: stack a tower on a swinging crane. Higher tower, more coins.
-✈️ Slipstream: fly through a canyon, dodge the walls, collect the gates.
-🔢 Merge 2048: the classic merge puzzle, now it pays you coins.
-📋 Surveys: two-minute questions, paid on completion.
+QUATRE FAÇONS DE GAGNER DES PIÈCES
+🏗️ Skyline : empilez une tour avec une grue qui se balance. Plus la tour est haute, plus vous gagnez.
+✈️ Slipstream : volez dans un canyon, évitez les parois, passez les portes.
+🔢 Merge 2048 : le puzzle de fusion classique, qui rapporte maintenant des pièces.
+📋 Sondages : deux minutes de questions, payées à la fin.
 
-DAILY BONUS AND STREAKS
-Open the app every day and claim a daily bonus. Keep a 7-day streak and the bonus grows each day, from 25 coins on day one up to 150 on day seven. Miss a day and it resets, so come back.
+BONUS QUOTIDIEN ET SÉRIES
+Ouvrez l'appli chaque jour et réclamez un bonus quotidien. Tenez une série de 7 jours et le bonus augmente chaque jour, de 25 pièces le premier jour à 150 le septième. Un jour manqué et la série repart de zéro, alors revenez.
 
-2X BOOST
-Watch one short ad to double the coins from every round for 30 minutes. Best used right before a long session.
+BOOST 2X
+Regardez une courte publicité pour doubler les pièces de chaque partie pendant 30 minutes. À utiliser juste avant une longue session.
 
-INVITE FRIENDS, EARN TOGETHER
-Share your invite link. You earn 15% of what your friends earn, 10% from their friends and 5% from the next level, on top of your own play. Friends get a welcome bonus after their first three rounds. Climb the referral leaderboard.
+INVITEZ VOS AMIS, GAGNEZ ENSEMBLE
+Partagez votre lien d'invitation. Vous gagnez 15 % de ce que gagnent vos amis, 10 % de leurs amis et 5 % du niveau suivant, en plus de vos propres parties. Vos amis reçoivent un bonus de bienvenue après leurs trois premières parties. Grimpez au classement des parrainages.
 
-CASH OUT YOUR WAY
-💳 PayPal: sent to your PayPal email.
-₿ USDT (TRC20): crypto payout straight to your wallet.
-📱 Mobile top-up: airtime or phone credit for your number.
-Tiers from $1 to $20. Fixed rate, no hidden fees, no minimum playtime. A full withdrawal history and coin ledger are in your profile so you can check every credit.
+RETIREZ COMME VOUS VOULEZ
+💳 PayPal : envoyé sur votre e-mail PayPal.
+₿ USDT (TRC20) : paiement en crypto directement sur votre portefeuille.
+📱 Recharge mobile : du crédit ou du forfait sur votre numéro.
+Paliers de 1 $ à 20 $. Taux fixe, pas de frais cachés, pas de temps de jeu minimum. L'historique complet des retraits et le registre des pièces sont dans votre profil pour vérifier chaque crédit.
 
-FAIR AND TRANSPARENT
-Every coin is credited server-side with per-game and daily caps, the same for everyone. The caps keep the rewards sustainable so we can keep paying. There is nothing to buy in PlayDrop and no way to spend money, only to earn it. You can delete your account and data at any time from the profile screen.
+JUSTE ET TRANSPARENT
+Chaque pièce est créditée côté serveur avec des plafonds par jeu et par jour, les mêmes pour tout le monde. Ces plafonds gardent les récompenses viables pour que nous puissions continuer à payer. Il n'y a rien à acheter dans PlayDrop et aucun moyen de dépenser de l'argent, seulement d'en gagner. Vous pouvez supprimer votre compte et vos données à tout moment depuis l'écran de profil.
 
-WHO IS PLAYDROP FOR
-Anyone who wants to make money in spare minutes: waiting for a bus, on a break, before bed. If you like apps that reward you for playing games or answering surveys, PlayDrop gives you the same idea with a faster first payout and payout options that work worldwide, including mobile recharge.
+À QUI S'ADRESSE PLAYDROP
+À tous ceux qui veulent gagner de l'argent dans leurs minutes libres : en attendant le bus, pendant une pause, avant de dormir. Si vous aimez les applis qui récompensent le jeu ou les sondages, PlayDrop reprend la même idée avec un premier paiement plus rapide et des options de retrait qui marchent partout dans le monde, recharge mobile comprise.
 
-Download PlayDrop, play a round, and see coins in your balance before you finish reading this.
+Téléchargez PlayDrop, faites une partie et voyez les pièces sur votre solde avant d'avoir fini de lire ceci.
 
-Support and legal
-Privacy: https://playdrop-legal.surge.sh/privacy.html
-Terms: https://playdrop-legal.surge.sh/terms.html
-PlayDrop is not affiliated with PayPal, Tether or any mobile carrier. Earnings depend on activity and daily caps and are not guaranteed income.
+Assistance et mentions légales
+Confidentialité : https://playdrop-legal.surge.sh/privacy.html
+Conditions : https://playdrop-legal.surge.sh/terms.html
+PlayDrop n'est affilié ni à PayPal, ni à Tether, ni à aucun opérateur mobile. Les gains dépendent de l'activité et des plafonds quotidiens et ne constituent pas un revenu garanti.

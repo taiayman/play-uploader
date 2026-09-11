@@ -1,40 +1,40 @@
-PlayDrop is a play-to-earn app: play quick games, answer short surveys, collect coins, and cash out to PayPal, USDT or mobile top-up. No purchases, no investment, no tricks. Coins are credited on our servers after every round, so what you see is what you get.
+PlayDrop é um app de jogar e ganhar: jogue partidas rápidas, responda pesquisas curtas, junte moedas e saque via PayPal, USDT ou recarga de celular. Sem compras, sem investimento, sem truques. As moedas são creditadas nos nossos servidores após cada partida, então o que você vê é o que você recebe.
 
-HOW IT WORKS
-1. Open the app. No sign-up, no email, you start playing instantly.
-2. Play a round of Skyline, Slipstream or Merge 2048, or answer a survey. Coins land in your balance right after each round.
-3. Redeem. 10,000 coins = $1, fixed rate, and every request is paid within 48 hours.
+COMO FUNCIONA
+1. Abra o app. Sem cadastro, sem e-mail, você começa a jogar na hora.
+2. Jogue uma partida de Skyline, Slipstream ou Merge 2048, ou responda uma pesquisa. As moedas entram no seu saldo logo após cada partida.
+3. Resgate. 10.000 moedas = US$ 1, taxa fixa, e todo pedido é pago em até 48 horas.
 
-FOUR WAYS TO EARN COINS
-🏗️ Skyline: stack a tower on a swinging crane. Higher tower, more coins.
-✈️ Slipstream: fly through a canyon, dodge the walls, collect the gates.
-🔢 Merge 2048: the classic merge puzzle, now it pays you coins.
-📋 Surveys: two-minute questions, paid on completion.
+QUATRO FORMAS DE GANHAR MOEDAS
+🏗️ Skyline: empilhe uma torre com um guindaste que balança. Torre mais alta, mais moedas.
+✈️ Slipstream: voe por um cânion, desvie das paredes, colete os portais.
+🔢 Merge 2048: o clássico quebra-cabeça de fusão, agora ele paga moedas.
+📋 Pesquisas: perguntas de dois minutos, pagas ao concluir.
 
-DAILY BONUS AND STREAKS
-Open the app every day and claim a daily bonus. Keep a 7-day streak and the bonus grows each day, from 25 coins on day one up to 150 on day seven. Miss a day and it resets, so come back.
+BÔNUS DIÁRIO E SEQUÊNCIAS
+Abra o app todo dia e resgate um bônus diário. Mantenha uma sequência de 7 dias e o bônus cresce a cada dia, de 25 moedas no primeiro dia até 150 no sétimo. Perdeu um dia, reinicia, então volte sempre.
 
-2X BOOST
-Watch one short ad to double the coins from every round for 30 minutes. Best used right before a long session.
+BOOST 2X
+Assista a um anúncio curto para dobrar as moedas de cada partida por 30 minutos. Ideal antes de uma sessão longa.
 
-INVITE FRIENDS, EARN TOGETHER
-Share your invite link. You earn 15% of what your friends earn, 10% from their friends and 5% from the next level, on top of your own play. Friends get a welcome bonus after their first three rounds. Climb the referral leaderboard.
+CONVIDE AMIGOS, GANHEM JUNTOS
+Compartilhe seu link de convite. Você ganha 15% do que seus amigos ganham, 10% dos amigos deles e 5% do nível seguinte, além do que você mesmo joga. Os amigos recebem um bônus de boas-vindas após as três primeiras partidas. Suba no ranking de indicações.
 
-CASH OUT YOUR WAY
-💳 PayPal: sent to your PayPal email.
-₿ USDT (TRC20): crypto payout straight to your wallet.
-📱 Mobile top-up: airtime or phone credit for your number.
-Tiers from $1 to $20. Fixed rate, no hidden fees, no minimum playtime. A full withdrawal history and coin ledger are in your profile so you can check every credit.
+SAQUE DO SEU JEITO
+💳 PayPal: enviado para o seu e-mail do PayPal.
+₿ USDT (TRC20): pagamento em cripto direto na sua carteira.
+📱 Recarga de celular: crédito para o seu número.
+Faixas de US$ 1 a US$ 20. Taxa fixa, sem taxas ocultas, sem tempo mínimo de jogo. O histórico completo de saques e o extrato de moedas ficam no seu perfil para você conferir cada crédito.
 
-FAIR AND TRANSPARENT
-Every coin is credited server-side with per-game and daily caps, the same for everyone. The caps keep the rewards sustainable so we can keep paying. There is nothing to buy in PlayDrop and no way to spend money, only to earn it. You can delete your account and data at any time from the profile screen.
+JUSTO E TRANSPARENTE
+Cada moeda é creditada no servidor, com limites por jogo e por dia, iguais para todos. Os limites mantêm as recompensas sustentáveis para que possamos continuar pagando. Não há nada para comprar no PlayDrop e nenhuma forma de gastar dinheiro, só de ganhar. Você pode excluir sua conta e seus dados a qualquer momento na tela de perfil.
 
-WHO IS PLAYDROP FOR
-Anyone who wants to make money in spare minutes: waiting for a bus, on a break, before bed. If you like apps that reward you for playing games or answering surveys, PlayDrop gives you the same idea with a faster first payout and payout options that work worldwide, including mobile recharge.
+PARA QUEM É O PLAYDROP
+Para quem quer ganhar dinheiro nos minutos livres: esperando o ônibus, no intervalo, antes de dormir. Se você gosta de apps que recompensam por jogar ou responder pesquisas, o PlayDrop traz a mesma ideia com o primeiro pagamento mais rápido e opções de saque que funcionam no mundo todo, incluindo recarga de celular.
 
-Download PlayDrop, play a round, and see coins in your balance before you finish reading this.
+Baixe o PlayDrop, jogue uma partida e veja as moedas no seu saldo antes de terminar de ler isto.
 
-Support and legal
-Privacy: https://playdrop-legal.surge.sh/privacy.html
-Terms: https://playdrop-legal.surge.sh/terms.html
-PlayDrop is not affiliated with PayPal, Tether or any mobile carrier. Earnings depend on activity and daily caps and are not guaranteed income.
+Suporte e termos
+Privacidade: https://playdrop-legal.surge.sh/privacy.html
+Termos: https://playdrop-legal.surge.sh/terms.html
+O PlayDrop não é afiliado ao PayPal, à Tether nem a nenhuma operadora de celular. Os ganhos dependem da atividade e dos limites diários e não são renda garantida.
