@@ -35,6 +35,6 @@ Para quien quiere ganar dinero en sus minutos libres: esperando el bus, en un de
 Descarga PlayDrop, juega una partida y verás monedas en tu saldo antes de terminar de leer esto.
 
 Soporte y legal
-Privacidad: https://playdrop-legal.surge.sh/privacy.html
-Términos: https://playdrop-legal.surge.sh/terms.html
+Privacidad: https://rentry.co/pd-privacy-0kejf6
+Términos: https://rentry.co/pd-terms-0kejf6
 PlayDrop no está afiliado a PayPal, Tether ni a ninguna operadora móvil. Las ganancias dependen de la actividad y de los límites diarios y no son un ingreso garantizado.
