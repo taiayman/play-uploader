@@ -35,6 +35,6 @@ Chaque pièce est créditée côté serveur avec des plafonds par jeu et par jou
 Téléchargez PlayDrop, faites une partie et voyez les pièces sur votre solde avant d'avoir fini de lire ceci.
 
 Assistance et mentions légales
-Confidentialité : https://playdrop-legal.surge.sh/privacy.html
-Conditions : https://playdrop-legal.surge.sh/terms.html
+Confidentialité : https://rentry.co/pd-privacy-0kejf6
+Conditions : https://rentry.co/pd-terms-0kejf6
 PlayDrop n'est affilié ni à PayPal, ni à Tether, ni à aucun opérateur mobile. Les gains dépendent de l'activité et des plafonds quotidiens et ne constituent pas un revenu garanti.
