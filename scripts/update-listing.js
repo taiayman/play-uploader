@@ -60,7 +60,9 @@ async function main() {
     editId,
     requestBody: {
       contactEmail: 'najat.adlani.dev@gmail.com',
-      contactWebsite: 'https://www.playreels.app',
+      contactWebsite: fs.existsSync(path.join(dir, 'website.txt'))
+        ? fs.readFileSync(path.join(dir, 'website.txt'), 'utf8').trim()
+        : 'https://www.playreels.app',
       defaultLanguage: 'en-US',
     },
   });
