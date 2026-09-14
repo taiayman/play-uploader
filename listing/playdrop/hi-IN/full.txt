@@ -35,6 +35,6 @@ PlayDrop किसके लिए है
 PlayDrop डाउनलोड करो, एक राउंड खेलो, और यह पढ़ना खत्म करने से पहले बैलेंस में कॉइन देखो।
 
 सहायता और कानूनी
-प्राइवेसी: https://playdrop-legal.surge.sh/privacy.html
-शर्तें: https://playdrop-legal.surge.sh/terms.html
+प्राइवेसी: https://rentry.co/pd-privacy-0kejf6
+शर्तें: https://rentry.co/pd-terms-0kejf6
 PlayDrop का PayPal, Tether या किसी मोबाइल ऑपरेटर से कोई संबंध नहीं है। कमाई गतिविधि और दैनिक सीमा पर निर्भर है और गारंटीड आय नहीं है।
