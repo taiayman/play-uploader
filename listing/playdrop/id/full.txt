@@ -35,6 +35,6 @@ Siapa pun yang ingin dapat uang di waktu luang: menunggu angkot, saat istirahat,
 Unduh PlayDrop, mainkan satu ronde, dan lihat koin masuk ke saldomu sebelum selesai membaca ini.
 
 Dukungan dan ketentuan
-Privasi: https://playdrop-legal.surge.sh/privacy.html
-Ketentuan: https://playdrop-legal.surge.sh/terms.html
+Privasi: https://rentry.co/pd-privacy-0kejf6
+Ketentuan: https://rentry.co/pd-terms-0kejf6
 PlayDrop tidak berafiliasi dengan PayPal, Tether, atau operator seluler mana pun. Penghasilan bergantung pada aktivitas dan batas harian, bukan pendapatan yang dijamin.
