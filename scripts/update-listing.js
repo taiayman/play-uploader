@@ -107,6 +107,11 @@ async function main() {
   // Unpublished apps with outstanding declarations often refuse a normal
   // commit; changesNotSentForReview parks the changes until the human forms
   // are answered in the console.
+  if (process.env.NOTSENT === 'true') {
+    await play.edits.commit({ packageName: pkg, editId, changesNotSentForReview: true });
+    console.log('COMMITTED (changesNotSentForReview, forced)');
+    return;
+  }
   try {
     await play.edits.commit({ packageName: pkg, editId });
     console.log('COMMITTED (sent for review)');
