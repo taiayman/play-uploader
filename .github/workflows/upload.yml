@@ -17,6 +17,10 @@ on:
         description: "Path to whatsnew directory (optional)"
         required: false
         default: ""
+      notsent:
+        description: "true = upload without sending for review (needed after a rejection)"
+        required: false
+        default: "false"
 
 jobs:
   upload:
@@ -33,5 +37,6 @@ jobs:
           track: ${{ github.event.inputs.track }}
           status: completed
           whatsNewDirectory: ${{ github.event.inputs.whatsnew }}
+          changesNotSentForReview: ${{ github.event.inputs.notsent == 'true' }}
 
 # touch
