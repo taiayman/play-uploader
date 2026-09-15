@@ -1,40 +1,30 @@
-PlayDrop es una app de jugar y ganar: juega partidas rápidas, responde encuestas cortas, junta monedas y retira por PayPal, USDT o recarga de celular. Sin compras, sin inversión, sin trucos. Las monedas se acreditan en nuestros servidores después de cada partida, así que lo que ves es lo que recibes.
+PlayDrop es un arcade de bolsillo: cuatro juegos rápidos, rachas diarias, niveles y un ranking semanal. Juega una ronda en un minuto, junta monedas, sube de nivel y mira en qué puesto quedas esta semana.
 
-CÓMO FUNCIONA
-1. Abre la app. Sin registro, sin correo, empiezas a jugar al instante.
-2. Juega una partida de Skyline, Slipstream o Merge 2048, o responde una encuesta. Las monedas llegan a tu saldo justo después de cada partida.
-3. Canjea. 10.000 monedas = US$ 1, tasa fija, y cada solicitud se paga en menos de 48 horas.
+LOS JUEGOS
+🏗️ Skyline: apila una torre con una grúa que se balancea. Calcula cada caída y llega más alto.
+✈️ Slipstream: vuela por un cañón, cruza las puertas y no toques las paredes.
+🔢 Merge 2048: el clásico puzzle de combinar. Desliza, une y llega a 2048.
+📋 Encuesta: seis preguntas ligeras sobre la vida diaria, sin respuestas incorrectas.
 
-CUATRO FORMAS DE GANAR MONEDAS
-🏗️ Skyline: apila una torre con una grúa que se balancea. Torre más alta, más monedas.
-✈️ Slipstream: vuela por un cañón, esquiva las paredes, atraviesa los portales.
-🔢 Merge 2048: el clásico rompecabezas de fusión, ahora te paga monedas.
-📋 Encuestas: preguntas de dos minutos, pagadas al completarlas.
+MONEDAS, NIVELES Y MARCOS
+Cada ronda te da monedas. Las monedas suben tu nivel de Rookie a Player, Pro, Ace, Legend y Mythic, y cada rango desbloquea un marco de perfil nuevo.
 
-BONO DIARIO Y RACHAS
-Abre la app cada día y reclama un bono diario. Mantén una racha de 7 días y el bono crece cada día, de 25 monedas el primer día hasta 150 el séptimo. Si faltas un día, se reinicia, así que vuelve.
+TEMPORADAS SEMANALES
+Cada lunes empieza una temporada nueva. Todas las monedas que juntes esa semana cuentan para tu puesto en el top 50. Termina en el top 3 y lleva la corona de campeón toda la semana siguiente.
+
+RACHAS DIARIAS
+Abre la app cada día para reclamar un bono diario. Mantén una racha de 7 días y el bono crece cada día.
 
 BOOST 2X
-Mira un anuncio corto para duplicar las monedas de cada partida durante 30 minutos. Ideal justo antes de una sesión larga.
+Mira un anuncio corto y opcional para duplicar las monedas de cada ronda durante 30 minutos.
 
-INVITA AMIGOS, GANEN JUNTOS
-Comparte tu enlace de invitación. Ganas el 15% de lo que ganan tus amigos, el 10% de sus amigos y el 5% del siguiente nivel, además de lo que juegas tú. Tus amigos reciben un bono de bienvenida después de sus primeras tres partidas. Sube en la tabla de referidos.
+JUEGA CON AMIGOS
+Comparte tu código de invitación. Recibes monedas extra de lo que juntan tus amigos, y ellos reciben un bono de bienvenida después de sus primeras tres rondas.
 
-RETIRA A TU MANERA
-💳 PayPal: enviado a tu correo de PayPal.
-₿ USDT (TRC20): pago en cripto directo a tu billetera.
-📱 Recarga de celular: saldo o tiempo aire para tu número.
-Niveles de US$ 1 a US$ 20. Tasa fija, sin comisiones ocultas, sin tiempo mínimo de juego. El historial completo de retiros y el registro de monedas están en tu perfil para que revises cada acreditación.
+JUSTO PARA TODOS
+Los puntajes se verifican en nuestros servidores, con los mismos límites diarios para todos. Sin registro y sin correo: toca Empezar y juega. Borra tu cuenta y tus datos cuando quieras desde tu perfil.
 
-JUSTO Y TRANSPARENTE
-Cada moneda se acredita en el servidor, con límites por juego y por día, iguales para todos. Los límites mantienen las recompensas sostenibles para que podamos seguir pagando. No hay nada que comprar en PlayDrop ni forma de gastar dinero, solo de ganarlo. Puedes eliminar tu cuenta y tus datos en cualquier momento desde la pantalla de perfil.
+Las monedas son solo puntos del juego. No tienen valor en efectivo y no se pueden cambiar por dinero ni premios.
 
-PARA QUIÉN ES PLAYDROP
-Para quien quiere ganar dinero en sus minutos libres: esperando el bus, en un descanso, antes de dormir. Si te gustan las apps que te recompensan por jugar o responder encuestas, PlayDrop te da la misma idea con un primer pago más rápido y opciones de retiro que funcionan en todo el mundo, incluida la recarga de celular.
-
-Descarga PlayDrop, juega una partida y verás monedas en tu saldo antes de terminar de leer esto.
-
-Soporte y legal
-Privacidad: https://rentry.co/pd-privacy-0kejf6
-Términos: https://rentry.co/pd-terms-0kejf6
-PlayDrop no está afiliado a PayPal, Tether ni a ninguna operadora móvil. Las ganancias dependen de la actividad y de los límites diarios y no son un ingreso garantizado.
+Privacy: https://rentry.co/pd-privacy-0kejf6
+Terms: https://rentry.co/pd-terms-0kejf6

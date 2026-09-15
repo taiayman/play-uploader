@@ -1,40 +1,30 @@
-PlayDrop é um app de jogar e ganhar: jogue partidas rápidas, responda pesquisas curtas, junte moedas e saque via PayPal, USDT ou recarga de celular. Sem compras, sem investimento, sem truques. As moedas são creditadas nos nossos servidores após cada partida, então o que você vê é o que você recebe.
+PlayDrop é um fliperama de bolso: quatro jogos rápidos, sequências diárias, níveis e um ranking semanal. Jogue uma rodada em um minuto, junte moedas, suba de nível e veja sua posição nesta semana.
 
-COMO FUNCIONA
-1. Abra o app. Sem cadastro, sem e-mail, você começa a jogar na hora.
-2. Jogue uma partida de Skyline, Slipstream ou Merge 2048, ou responda uma pesquisa. As moedas entram no seu saldo logo após cada partida.
-3. Resgate. 10.000 moedas = US$ 1, taxa fixa, e todo pedido é pago em até 48 horas.
+OS JOGOS
+🏗️ Skyline: empilhe uma torre com um guindaste balançando. Acerte cada queda e vá mais alto.
+✈️ Slipstream: voe por um cânion, passe pelos portões e não encoste nas paredes.
+🔢 Merge 2048: o clássico puzzle de juntar. Deslize, combine, chegue a 2048.
+📋 Pesquisa: seis perguntas leves sobre o dia a dia, sem resposta errada.
 
-QUATRO FORMAS DE GANHAR MOEDAS
-🏗️ Skyline: empilhe uma torre com um guindaste que balança. Torre mais alta, mais moedas.
-✈️ Slipstream: voe por um cânion, desvie das paredes, colete os portais.
-🔢 Merge 2048: o clássico quebra-cabeça de fusão, agora ele paga moedas.
-📋 Pesquisas: perguntas de dois minutos, pagas ao concluir.
+MOEDAS, NÍVEIS E MOLDURAS
+Cada rodada dá moedas. As moedas sobem seu nível de Rookie para Player, Pro, Ace, Legend e Mythic, e cada patente desbloqueia uma nova moldura de perfil.
 
-BÔNUS DIÁRIO E SEQUÊNCIAS
-Abra o app todo dia e resgate um bônus diário. Mantenha uma sequência de 7 dias e o bônus cresce a cada dia, de 25 moedas no primeiro dia até 150 no sétimo. Perdeu um dia, reinicia, então volte sempre.
+TEMPORADAS SEMANAIS
+Toda segunda-feira começa uma nova temporada. Cada moeda que você junta na semana conta para sua posição no top 50. Termine no top 3 e use a coroa de campeão durante toda a semana seguinte.
+
+SEQUÊNCIAS DIÁRIAS
+Abra o app todo dia para pegar um bônus diário. Mantenha uma sequência de 7 dias e o bônus cresce a cada dia.
 
 BOOST 2X
-Assista a um anúncio curto para dobrar as moedas de cada partida por 30 minutos. Ideal antes de uma sessão longa.
+Assista a um anúncio curto e opcional para dobrar as moedas de cada rodada por 30 minutos.
 
-CONVIDE AMIGOS, GANHEM JUNTOS
-Compartilhe seu link de convite. Você ganha 15% do que seus amigos ganham, 10% dos amigos deles e 5% do nível seguinte, além do que você mesmo joga. Os amigos recebem um bônus de boas-vindas após as três primeiras partidas. Suba no ranking de indicações.
+JOGUE COM AMIGOS
+Compartilhe seu código de convite. Você ganha moedas bônus com o que seus amigos juntam, e eles ganham um bônus de boas-vindas depois das três primeiras rodadas.
 
-SAQUE DO SEU JEITO
-💳 PayPal: enviado para o seu e-mail do PayPal.
-₿ USDT (TRC20): pagamento em cripto direto na sua carteira.
-📱 Recarga de celular: crédito para o seu número.
-Faixas de US$ 1 a US$ 20. Taxa fixa, sem taxas ocultas, sem tempo mínimo de jogo. O histórico completo de saques e o extrato de moedas ficam no seu perfil para você conferir cada crédito.
+JUSTO PARA TODOS
+As pontuações são verificadas nos nossos servidores, com os mesmos limites diários para todos. Sem cadastro e sem e-mail: toque em Começar e jogue. Apague sua conta e seus dados quando quiser pelo perfil.
 
-JUSTO E TRANSPARENTE
-Cada moeda é creditada no servidor, com limites por jogo e por dia, iguais para todos. Os limites mantêm as recompensas sustentáveis para que possamos continuar pagando. Não há nada para comprar no PlayDrop e nenhuma forma de gastar dinheiro, só de ganhar. Você pode excluir sua conta e seus dados a qualquer momento na tela de perfil.
+As moedas são apenas pontos do jogo. Elas não têm valor em dinheiro e não podem ser trocadas por dinheiro ou prêmios.
 
-PARA QUEM É O PLAYDROP
-Para quem quer ganhar dinheiro nos minutos livres: esperando o ônibus, no intervalo, antes de dormir. Se você gosta de apps que recompensam por jogar ou responder pesquisas, o PlayDrop traz a mesma ideia com o primeiro pagamento mais rápido e opções de saque que funcionam no mundo todo, incluindo recarga de celular.
-
-Baixe o PlayDrop, jogue uma partida e veja as moedas no seu saldo antes de terminar de ler isto.
-
-Suporte e termos
-Privacidade: https://rentry.co/pd-privacy-0kejf6
-Termos: https://rentry.co/pd-terms-0kejf6
-O PlayDrop não é afiliado ao PayPal, à Tether nem a nenhuma operadora de celular. Os ganhos dependem da atividade e dos limites diários e não são renda garantida.
+Privacy: https://rentry.co/pd-privacy-0kejf6
+Terms: https://rentry.co/pd-terms-0kejf6

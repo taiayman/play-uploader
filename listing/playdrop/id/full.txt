@@ -1,40 +1,30 @@
-PlayDrop adalah aplikasi main game dapat uang: mainkan game singkat, jawab survei pendek, kumpulkan koin, lalu tarik ke PayPal, USDT, atau pulsa. Tanpa pembelian, tanpa investasi, tanpa tipu-tipu. Koin dicatat di server kami setelah setiap ronde, jadi yang kamu lihat itulah yang kamu dapat.
+PlayDrop adalah arcade saku: empat game cepat, streak harian, level, dan papan peringkat mingguan. Main satu ronde dalam semenit, kumpulkan koin, naik level, dan lihat peringkatmu minggu ini.
 
-CARA KERJANYA
-1. Buka aplikasi. Tanpa daftar, tanpa email, langsung main.
-2. Mainkan satu ronde Skyline, Slipstream, atau Merge 2048, atau jawab survei. Koin masuk ke saldo tepat setelah setiap ronde.
-3. Tukarkan. 10.000 koin = US$1, kurs tetap, dan setiap permintaan dibayar dalam 48 jam.
+GAME
+🏗️ Skyline: susun menara dengan derek yang berayun. Jatuhkan tepat waktu dan naik lebih tinggi.
+✈️ Slipstream: terbang menembus ngarai, lewati gerbang, jangan sentuh dinding.
+🔢 Merge 2048: puzzle gabung klasik. Geser, gabungkan, capai 2048.
+📋 Survei: enam pertanyaan ringan tentang keseharian, tanpa jawaban salah.
 
-EMPAT CARA MENGUMPULKAN KOIN
-🏗️ Skyline: susun menara dengan derek yang berayun. Makin tinggi menara, makin banyak koin.
-✈️ Slipstream: terbang melewati ngarai, hindari dinding, lewati gerbang.
-🔢 Merge 2048: puzzle gabung angka klasik, sekarang memberi koin.
-📋 Survei: pertanyaan dua menit, dibayar setelah selesai.
+KOIN, LEVEL, DAN BINGKAI
+Setiap ronde memberi koin. Koin menaikkan level dari Rookie ke Player, Pro, Ace, Legend, dan Mythic, dan setiap peringkat membuka bingkai profil baru.
 
-BONUS HARIAN DAN STREAK
-Buka aplikasi setiap hari dan klaim bonus harian. Pertahankan streak 7 hari dan bonusnya naik setiap hari, dari 25 koin di hari pertama sampai 150 di hari ketujuh. Lewat satu hari, streak kembali ke awal, jadi jangan lupa kembali.
+MUSIM MINGGUAN
+Musim baru dimulai setiap Senin. Setiap koin yang kamu kumpulkan minggu itu dihitung untuk posisimu di papan top 50. Masuk top 3 dan pakai mahkota juara sepanjang minggu berikutnya.
+
+STREAK HARIAN
+Buka aplikasi setiap hari untuk klaim bonus harian. Pertahankan streak 7 hari dan bonusnya naik setiap hari.
 
 BOOST 2X
-Tonton satu iklan singkat untuk menggandakan koin dari setiap ronde selama 30 menit. Paling pas dipakai sebelum sesi main yang panjang.
+Tonton satu iklan pendek opsional untuk menggandakan koin setiap ronde selama 30 menit.
 
-UNDANG TEMAN, DAPAT BARENG
-Bagikan tautan undanganmu. Kamu dapat 15% dari koin yang dikumpulkan temanmu, 10% dari teman mereka, dan 5% dari level berikutnya, di luar hasil mainmu sendiri. Teman mendapat bonus sambutan setelah tiga ronde pertama. Naik ke papan peringkat referral.
+MAIN BARENG TEMAN
+Bagikan kode undanganmu. Kamu dapat koin bonus dari koin yang dikumpulkan temanmu, dan mereka dapat bonus sambutan setelah tiga ronde pertama.
 
-TARIK SESUKAMU
-💳 PayPal: dikirim ke email PayPal-mu.
-₿ USDT (TRC20): pembayaran kripto langsung ke dompetmu.
-📱 Pulsa: isi pulsa ke nomormu.
-Pilihan US$1 sampai US$20. Kurs tetap, tanpa biaya tersembunyi, tanpa minimal waktu main. Riwayat penarikan lengkap dan catatan koin ada di profilmu, jadi setiap kredit bisa dicek.
+ADIL UNTUK SEMUA
+Skor diperiksa di server kami, dengan batas harian yang sama untuk semua pemain. Tanpa daftar dan tanpa email: ketuk Mulai dan main. Hapus akun dan datamu kapan saja dari profil.
 
-ADIL DAN TRANSPARAN
-Setiap koin dicatat di server dengan batas per game dan per hari, sama untuk semua orang. Batas ini menjaga hadiah tetap berkelanjutan supaya kami bisa terus membayar. Tidak ada yang perlu dibeli di PlayDrop dan tidak ada cara mengeluarkan uang, hanya mendapatkannya. Kamu bisa menghapus akun dan datamu kapan saja dari layar profil.
+Koin hanyalah poin permainan. Koin tidak punya nilai uang dan tidak bisa ditukar dengan uang atau hadiah.
 
-UNTUK SIAPA PLAYDROP
-Siapa pun yang ingin dapat uang di waktu luang: menunggu angkot, saat istirahat, sebelum tidur. Kalau kamu suka aplikasi yang memberi hadiah untuk main game atau isi survei, PlayDrop menawarkan ide yang sama dengan pembayaran pertama yang lebih cepat dan pilihan penarikan yang berlaku di seluruh dunia, termasuk pulsa.
-
-Unduh PlayDrop, mainkan satu ronde, dan lihat koin masuk ke saldomu sebelum selesai membaca ini.
-
-Dukungan dan ketentuan
-Privasi: https://rentry.co/pd-privacy-0kejf6
-Ketentuan: https://rentry.co/pd-terms-0kejf6
-PlayDrop tidak berafiliasi dengan PayPal, Tether, atau operator seluler mana pun. Penghasilan bergantung pada aktivitas dan batas harian, bukan pendapatan yang dijamin.
+Privacy: https://rentry.co/pd-privacy-0kejf6
+Terms: https://rentry.co/pd-terms-0kejf6

@@ -1,40 +1,30 @@
-PlayDrop is a play-to-earn app: play quick games, answer short surveys, collect coins, and cash out to PayPal, USDT or mobile top-up. No purchases, no investment, no tricks. Coins are credited on our servers after every round, so what you see is what you get.
+PlayDrop is a pocket arcade: four quick games, daily streaks, levels and a weekly leaderboard. Play a round in a minute, collect coins, level up and see where you rank this week.
 
-HOW IT WORKS
-1. Open the app. No sign-up, no email, you start playing instantly.
-2. Play a round of Skyline, Slipstream or Merge 2048, or answer a survey. Coins land in your balance right after each round.
-3. Redeem. 10,000 coins = $1, fixed rate, and every request is paid within 48 hours.
+THE GAMES
+🏗️ Skyline: stack a tower on a swinging crane. Time every drop and go higher.
+✈️ Slipstream: dive through a canyon, thread the gates, don't touch the walls.
+🔢 Merge 2048: the classic merge puzzle. Swipe, combine, reach 2048.
+📋 Survey: six light questions about everyday life, no wrong answers.
 
-FOUR WAYS TO EARN COINS
-🏗️ Skyline: stack a tower on a swinging crane. Higher tower, more coins.
-✈️ Slipstream: fly through a canyon, dodge the walls, collect the gates.
-🔢 Merge 2048: the classic merge puzzle, now it pays you coins.
-📋 Surveys: two-minute questions, paid on completion.
+COINS, LEVELS AND FRAMES
+Every round gives you coins. Coins raise your level from Rookie to Player, Pro, Ace, Legend and Mythic, and every rank unlocks a new profile frame.
 
-DAILY BONUS AND STREAKS
-Open the app every day and claim a daily bonus. Keep a 7-day streak and the bonus grows each day, from 25 coins on day one up to 150 on day seven. Miss a day and it resets, so come back.
+WEEKLY SEASONS
+A new season starts every Monday. Every coin you collect that week counts toward your spot on the top-50 board. Finish in the top 3 and you wear the champion crown all next week.
+
+DAILY STREAKS
+Open the app every day to claim a daily bonus. Keep a 7-day streak and the bonus grows each day.
 
 2X BOOST
-Watch one short ad to double the coins from every round for 30 minutes. Best used right before a long session.
+Watch one short optional ad to double the coins from every round for 30 minutes.
 
-INVITE FRIENDS, EARN TOGETHER
-Share your invite link. You earn 15% of what your friends earn, 10% from their friends and 5% from the next level, on top of your own play. Friends get a welcome bonus after their first three rounds. Climb the referral leaderboard.
+PLAY WITH FRIENDS
+Share your invite code. You get bonus coins from what your friends collect, and they get a welcome bonus after their first three rounds.
 
-CASH OUT YOUR WAY
-💳 PayPal: sent to your PayPal email.
-₿ USDT (TRC20): crypto payout straight to your wallet.
-📱 Mobile top-up: airtime or phone credit for your number.
-Tiers from $1 to $20. Fixed rate, no hidden fees, no minimum playtime. A full withdrawal history and coin ledger are in your profile so you can check every credit.
+FAIR FOR EVERYONE
+Scores are checked on our servers, with the same daily limits for every player. No sign-up and no email: tap Start and play. Delete your account and data any time from your profile.
 
-FAIR AND TRANSPARENT
-Every coin is credited server-side with per-game and daily caps, the same for everyone. The caps keep the rewards sustainable so we can keep paying. There is nothing to buy in PlayDrop and no way to spend money, only to earn it. You can delete your account and data at any time from the profile screen.
+Coins are game points only. They have no cash value and cannot be exchanged for money or prizes.
 
-WHO IS PLAYDROP FOR
-Anyone who wants to make money in spare minutes: waiting for a bus, on a break, before bed. If you like apps that reward you for playing games or answering surveys, PlayDrop gives you the same idea with a faster first payout and payout options that work worldwide, including mobile recharge.
-
-Download PlayDrop, play a round, and see coins in your balance before you finish reading this.
-
-Support and legal
 Privacy: https://rentry.co/pd-privacy-0kejf6
 Terms: https://rentry.co/pd-terms-0kejf6
-PlayDrop is not affiliated with PayPal, Tether or any mobile carrier. Earnings depend on activity and daily caps and are not guaranteed income.
