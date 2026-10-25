@@ -1,0 +1,25 @@
+Kocka je pomiešaná a nevieš ako ďalej? Namier na ňu fotoaparát a aplikácia nájde riešenie za pár sekúnd. Potom ju skladaj ťah po ťahu na 3D kocke, vlastným tempom, kým nie je hotová každá strana.
+
+Pre kocku 3x3 (speedcube), 2x2 aj 4x4. Rubikova kocka alebo hlavolam: ak má šesť farieb, táto aplikácia ju poskladá.
+
+📷 SKENOVANIE FOTOAPARÁTOM
+• Ukáž každú stenu fotoaparátu, farba každej nálepky sa zobrazí hneď
+• Automatické odfotenie, keď kocku držíš v pokoji
+• Klepnutím nálepku opravíš, alebo zadaj farby ručne
+• Pred riešením aplikácia kocku skontroluje a povie, ktorú farbu overiť
+
+🧊 RIEŠENIE KROK ZA KROKOM V 3D
+• 3D kocka ukazuje každý ťah, šípka označuje stenu, ktorú otočiť
+• Ďalej, Späť a Prehrať, rýchlosť 0,5×, 1× alebo 2×
+• 3x3: asi 20 ťahov, 2x2: najkratšie riešenie, 4x4: úplné riešenie s paritou
+
+🎓 NAUČ SA POSKLADAŤ KOCKU
+• Metóda pre začiatočníkov v 7 krokoch, s cieľom a algoritmom každého kroku v 3D
+• Notácia na pohyblivých kockách: R, U', F2, Rw a r
+
+⏱ ČASOVAČ
+• Podrž a pusti pre štart: skutočný speedcubing časovač
+• Náhodné zamiešania 3x3, 2x2 a 4x4, najlepší čas, Ao5, Ao12, +2 a DNF
+
+✔ TIEŽ
+• Funguje offline, bez účtu, svetlý a tmavý režim

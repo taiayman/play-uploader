@@ -1,0 +1,1 @@
+Rubik kocka kirakása kamerával: lépésről lépésre 3D-ben. 2x2, 4x4 és stopper

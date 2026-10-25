@@ -1,0 +1,28 @@
+Je kubus is door elkaar en je weet niet verder? Richt de camera erop en de app vindt de oplossing in een paar seconden. Volg daarna zet voor zet op een 3D-kubus, in je eigen tempo, tot elke kant klaar is.
+
+Voor de 3x3 kubus (speedcube), de 2x2 en de 4x4. Rubiks kubus, magische kubus of puzzelkubus: met zes kleuren lost deze kubus oplosser hem op.
+
+📷 SCANNEN MET DE CAMERA
+• Houd elke kant voor de camera, de kleur van elk vakje zie je meteen
+• Automatische opname zodra je de kubus stilhoudt
+• Werkt met elk kleurenschema en bij gewoon licht
+• Tik op een vakje om het te verbeteren, of voer de kleuren zelf in
+• Voor het oplossen controleert de app de kubus en zegt welke kleur niet klopt
+
+🧊 STAP VOOR STAP IN 3D
+• Een 3D-kubus toont elke zet, met een pijl op de kant die je moet draaien
+• Volgende, Terug en Afspelen, snelheid 0,5×, 1× of 2×
+• 3x3 kubus oplossen: ongeveer 20 zetten, 2x2: de kortste oplossing, 4x4: volledige oplossing met pariteit
+
+🎓 LEER DE KUBUS ZELF OPLOSSEN
+• Beginnersmethode in 7 stappen, met het doel en het algoritme van elke stap in 3D
+• Notatie uitgelegd met bewegende kubussen: R, U', F2, Rw en r
+
+⏱ KUBUS TIMER
+• Ingedrukt houden en loslaten om te starten: een echte speedcube timer
+• Willekeurige scrambles voor 3x3, 2x2 en 4x4, beste tijd, Ao5, Ao12, +2 en DNF
+
+✔ OOK
+• Werkt offline
+• Geen account
+• Licht en donker

@@ -1,0 +1,27 @@
+Összekeveredett a kocka, és nem tudod, hogyan tovább? Fordítsd felé a kamerát, és az alkalmazás másodpercek alatt megtalálja a megoldást. Utána lépésről lépésre kirakhatod egy 3D kockán, a saját tempódban.
+
+A 3x3 kockához (speedcube), a 2x2-höz és a 4x4-hez. Rubik kocka vagy bűvös kocka: ha hat színe van, ez a kockamegoldó kirakja.
+
+📷 BEOLVASÁS KAMERÁVAL
+• Mutasd a kamerának az oldalakat, minden matrica színe azonnal látszik
+• Automatikus fotó, amikor mozdulatlanul tartod a kockát
+• Bármilyen színsémával és normál fénynél működik
+• Koppints egy matricára a javításhoz, vagy add meg kézzel a színeket
+• Megoldás előtt ellenőrzi a kockát, és megmondja, melyik színt nézd meg
+
+🧊 LÉPÉSRŐL LÉPÉSRE 3D-BEN
+• A 3D kocka minden lépést mutat, nyíllal a forgatandó oldalon
+• Következő, Vissza és Lejátszás, 0,5×, 1× vagy 2× sebességgel
+• 3x3: kb. 20 lépés, 2x2: a legrövidebb megoldás, 4x4: teljes megoldás paritással
+
+🎓 TANULD MEG A KIRAKÁST
+• Kezdő módszer 7 lépésben, minden lépés célja és algoritmusa 3D-ben
+• Jelölések mozgó kockákon: R, U', F2, Rw és r
+
+⏱ STOPPER
+• Tartsd lenyomva, majd engedd el: igazi speedcubing stopper
+• Véletlen keverések 3x3, 2x2 és 4x4 kockához, legjobb idő, Ao5, Ao12, +2 és DNF
+
+✔ TOVÁBBÁ
+• Internet nélkül is működik, fiók nélkül
+• Világos és sötét mód

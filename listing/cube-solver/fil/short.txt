@@ -1,0 +1,1 @@
+Rubik cube solver: i-scan gamit ang camera, step by step sa 3D. Timer, offline

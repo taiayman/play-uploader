@@ -1,0 +1,28 @@
+Kiub rubik anda bercampur dan tidak tahu cara menyelesaikannya? Halakan kamera ke kiub dan aplikasi ini mencari penyelesaian dalam beberapa saat. Kemudian ikut setiap gerakan pada kiub 3D, ikut kelajuan anda, sehingga semua sisi siap.
+
+Untuk kiub rubik 3x3 (speed cube), 2x2 dan 4x4. Selagi kiub itu ada enam warna, penyelesai kiub ini boleh menyelesaikannya.
+
+📷 IMBAS DENGAN KAMERA
+• Tunjukkan setiap sisi kepada kamera, warna setiap pelekat dibaca serta-merta
+• Tangkapan automatik apabila kiub dipegang tegak
+• Berfungsi dengan semua skema warna dan cahaya bilik biasa
+• Ketik pelekat untuk membetulkan warna, atau masukkan warna sendiri
+• Kiub diperiksa sebelum diselesaikan, dan anda diberitahu warna mana yang perlu disemak
+
+🧊 LANGKAH DEMI LANGKAH DALAM 3D
+• Kiub 3D menunjukkan setiap gerakan, dengan anak panah pada sisi yang perlu dipusing
+• Seterusnya, Kembali dan Main, kelajuan 0.5×, 1× atau 2×
+• Kiub rubik 3x3: kira-kira 20 gerakan, 2x2: penyelesaian terpendek, 4x4: penyelesaian penuh dengan pariti
+
+🎓 BELAJAR MENYELESAIKAN KIUB RUBIK
+• Kaedah pemula 7 langkah dengan matlamat dan algoritma setiap langkah, dianimasikan dalam 3D
+• Notasi dijelaskan dengan kiub bergerak: R, U', F2, Rw dan r
+
+⏱ RUBIK TIMER
+• Tekan lama dan lepaskan untuk mula, pemasa speedcubing sebenar
+• Kocokan rawak 3x3, 2x2 dan 4x4, masa terbaik, Ao5, Ao12, +2 dan DNF
+
+✔ JUGA
+• Berfungsi tanpa internet
+• Tiada akaun
+• Mod cerah dan gelap

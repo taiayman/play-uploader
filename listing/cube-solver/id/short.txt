@@ -1,0 +1,1 @@
+Rubik solver: pindai dengan kamera, selesaikan langkah demi langkah. Offline

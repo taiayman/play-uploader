@@ -21,6 +21,10 @@ on:
         description: "true = upload without sending for review (needed after a rejection)"
         required: false
         default: "false"
+      status:
+        description: "completed | draft (a never-published app only accepts draft)"
+        required: false
+        default: "completed"
 
 jobs:
   upload:
@@ -35,7 +39,7 @@ jobs:
           packageName: ${{ github.event.inputs.package }}
           releaseFiles: ${{ github.event.inputs.aab }}
           track: ${{ github.event.inputs.track }}
-          status: completed
+          status: ${{ github.event.inputs.status }}
           whatsNewDirectory: ${{ github.event.inputs.whatsnew }}
           changesNotSentForReview: ${{ github.event.inputs.notsent == 'true' }}
 

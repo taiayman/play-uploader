@@ -1,0 +1,30 @@
+Kostka jest pomieszana i nie wiesz, co dalej? Skieruj na nią aparat, a aplikacja znajdzie rozwiązanie w kilka sekund. Potem układaj ruch po ruchu na kostce 3D, we własnym tempie, aż wszystkie ściany będą gotowe.
+
+Działa z kostką rubika 3x3 (speedcube), 2x2 i 4x4. Jeśli kostka ma sześć kolorów, ta aplikacja do układania kostki ją rozwiąże.
+
+📷 SKANOWANIE APARATEM
+• Pokaż każdą ścianę aparatowi, kolor każdej naklejki widać na żywo
+• Automatyczne zdjęcie, gdy trzymasz kostkę nieruchomo
+• Działa z każdym schematem kolorów i przy zwykłym świetle
+• Dotknij naklejki, aby ją poprawić, albo wpisz kolory ręcznie
+• Przed rozwiązaniem aplikacja sprawdza kostkę i mówi, który kolor sprawdzić
+
+🧊 ROZWIĄZANIE KROK PO KROKU W 3D
+• Kostka 3D pokazuje każdy ruch, a strzałka wskazuje ścianę do obrotu
+• Dalej, Wstecz i Odtwórz, prędkość 0,5×, 1× lub 2×
+• Każdy ruch opisany słowami, np. „Prawa ściana zgodnie z ruchem wskazówek zegara”
+• Kostka rubika 3x3: około 20 ruchów, 2x2: najkrótsze rozwiązanie, 4x4: pełne rozwiązanie z parzystością
+
+🎓 NAUCZ SIĘ UKŁADAĆ KOSTKĘ RUBIKA
+• Metoda dla początkujących w 7 krokach: biały krzyż, białe rogi, środkowa warstwa, żółty krzyż, żółte krawędzie, ustawienie i obrót rogów
+• Każdy krok z celem i algorytmem, animowany w 3D
+• Notacja na ruchomych kostkach: R, U', F2 oraz ruchy 4x4 jak Rw i r
+
+⏱ TIMER DO KOSTKI
+• Przytrzymaj i puść, aby wystartować: prawdziwy timer do speedcubingu
+• Losowe scramble 3x3, 2x2 i 4x4, najlepszy czas, Ao5, Ao12, +2 i DNF
+
+✔ TAKŻE
+• Działa offline, bez internetu
+• Bez konta
+• Tryb jasny i ciemny

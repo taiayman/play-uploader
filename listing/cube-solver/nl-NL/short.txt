@@ -1,0 +1,1 @@
+Rubiks kubus oplossen met de camera, stap voor stap in 3D. 2x2, 4x4 en timer

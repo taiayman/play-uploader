@@ -1,0 +1,38 @@
+Votre cube est mélangé et vous êtes bloqué ? Pointez la caméra dessus et l'application trouve la solution en quelques secondes. Suivez-la ensuite mouvement par mouvement sur un cube 3D, à votre rythme, jusqu'à ce que chaque face soit faite.
+
+Pour le cube 3x3 (speed cube), le 2x2 et le 4x4. Rubik cube, cube magique ou casse-tête : s'il a six couleurs, ce solveur de cube le résout.
+
+📷 SCANNEZ AVEC LA CAMÉRA
+• Présentez chaque face à la caméra, la couleur de chaque case s'affiche en direct
+• Capture automatique dès que vous tenez le cube immobile
+• Fonctionne avec tous les schémas de couleurs et en lumière normale
+• Touchez une case pour la corriger, ou saisissez les couleurs à la main
+• Avant de résoudre, l'application vérifie le cube et indique quelle couleur contrôler
+
+🧊 SOLUTION ÉTAPE PAR ÉTAPE EN 3D
+• Un cube 3D montre chaque mouvement, avec une flèche sur la face à tourner
+• Suivant, Retour et Lecture, en vitesse 0,5×, 1× ou 2×
+• Chaque mouvement est écrit en mots simples, comme « Face droite dans le sens horaire »
+• Résoudre un cube 3x3 : environ 20 mouvements
+• Résoudre un 2x2 : la solution la plus courte possible
+• Résoudre un 4x4 : solution complète, parité incluse
+
+🎓 APPRENEZ À RÉSOUDRE LE CUBE
+• Méthode débutant en 7 étapes : croix blanche, coins blancs, deuxième couronne, croix jaune, arêtes jaunes, placer et orienter les coins
+• Chaque étape montre l'objectif et l'algorithme, animé en 3D
+• Notation expliquée avec des cubes en mouvement : R, U', F2 et les mouvements 4x4 comme Rw et r
+• Idéal pour les vrais débutants
+
+⏱ CHRONOMÈTRE SPEEDCUBE
+• Maintenez puis relâchez : un vrai timer de speedcubing
+• Mélanges aléatoires 3x3, 2x2 et 4x4 avec aperçu
+• Meilleur temps, Ao5 et Ao12, +2 et DNF, historique complet
+
+✔ AUSSI
+• Fonctionne hors ligne, sans internet
+• Sans compte ni inscription
+• Mode clair et sombre
+
+Pour ceux qui ont reçu un cube en cadeau sans savoir le résoudre, les débutants qui veulent apprendre la méthode couche par couche et les speedcubers qui veulent un chronomètre propre.
+
+Scannez, résolvez, apprenez : l'application transforme un cube mélangé en cube résolu et vous apprend à le faire seul la prochaine fois.

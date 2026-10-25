@@ -1,0 +1,27 @@
+Cubul e amestecat și nu știi cum să continui? Îndreaptă camera spre el și aplicația găsește soluția în câteva secunde. Apoi urmează mutare cu mutare pe un cub 3D, în ritmul tău, până când fiecare față e gata.
+
+Pentru cubul 3x3 (speedcube), 2x2 și 4x4. Cub rubik sau cub magic: dacă are șase culori, această aplicație de rezolvare a cubului îl rezolvă.
+
+📷 SCANARE CU CAMERA
+• Arată fiecare față camerei, culoarea fiecărui autocolant apare imediat
+• Captură automată când ții cubul nemișcat
+• Funcționează cu orice schemă de culori și la lumină normală
+• Atinge un autocolant pentru a-l corecta sau introdu culorile manual
+• Înainte de rezolvare, aplicația verifică cubul și îți spune ce culoare să verifici
+
+🧊 PAS CU PAS ÎN 3D
+• Un cub 3D arată fiecare mutare, cu o săgeată pe fața de rotit
+• Înainte, Înapoi și Redare, viteză 0,5×, 1× sau 2×
+• 3x3: circa 20 de mutări, 2x2: cea mai scurtă soluție, 4x4: rezolvare completă cu paritate
+
+🎓 ÎNVAȚĂ SĂ REZOLVI CUBUL RUBIK
+• Metodă pentru începători în 7 pași, cu scopul și algoritmul fiecărui pas în 3D
+• Notație explicată pe cuburi în mișcare: R, U', F2, Rw și r
+
+⏱ CRONOMETRU
+• Ține apăsat și eliberează pentru start: un cronometru real de speedcubing
+• Amestecări aleatorii 3x3, 2x2 și 4x4, cel mai bun timp, Ao5, Ao12, +2 și DNF
+
+✔ ȘI
+• Funcționează offline, fără cont
+• Mod luminos și întunecat

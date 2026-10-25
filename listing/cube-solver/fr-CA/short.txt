@@ -1,0 +1,1 @@
+Résoudre un rubik cube avec la caméra, étape par étape en 3D. 2x2, 4x4, chrono

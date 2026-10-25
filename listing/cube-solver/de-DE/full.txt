@@ -1,0 +1,38 @@
+Dein Zauberwürfel ist verdreht und du weißt nicht weiter? Halte ihn vor die Kamera und die App findet die Lösung in Sekunden. Dann löst du ihn Zug für Zug an einem 3D-Würfel, in deinem Tempo, bis jede Seite stimmt.
+
+Für den 3x3 Zauberwürfel (Speedcube), den 2x2 Pocket Cube und den 4x4 Würfel. Egal ob du ihn Zauberwürfel, Rubik Cube oder Magic Cube nennst: Hat er sechs Farben, kann dieser Zauberwürfel Löser ihn lösen.
+
+📷 MIT DER KAMERA SCANNEN
+• Halte jede Seite vor die Kamera, jede Farbe wird live erkannt
+• Automatische Aufnahme, sobald du den Würfel ruhig hältst
+• Funktioniert mit jedem Farbschema und bei normalem Licht
+• Tippe auf ein Feld, um es zu korrigieren, oder gib die Farben von Hand ein
+• Vor dem Lösen prüft die App den Würfel und sagt dir genau, welche Farbe nicht passt
+
+🧊 LÖSUNG SCHRITT FÜR SCHRITT IN 3D
+• Ein 3D-Würfel zeigt jeden Zug, mit einem Pfeil auf der Seite, die du drehen musst
+• Weiter, Zurück und Abspielen, in 0,5×, 1× oder 2× Geschwindigkeit
+• Jeder Zug steht in klaren Worten da, zum Beispiel „Rechte Seite im Uhrzeigersinn“
+• 3x3 Zauberwürfel Lösung: etwa 20 Züge
+• 2x2 lösen: die kürzestmögliche Lösung
+• 4x4 lösen: komplette Lösung inklusive Parität
+
+🎓 ZAUBERWÜRFEL LÖSEN LERNEN: HILFE UND ANLEITUNG
+• Anfängermethode in 7 Schritten: weißes Kreuz, weiße Ecken, mittlere Ebene, gelbes Kreuz, gelbe Kanten, Ecken platzieren und drehen
+• Jeder Schritt zeigt das Ziel und den Algorithmus, animiert in 3D
+• Notation mit bewegten Würfeln erklärt: R, U', F2 und 4x4 Züge wie Rw und r
+• Ideal für Anfänger ohne Vorwissen
+
+⏱ SPEEDCUBE TIMER
+• Halten zum Starten, loslassen und los: ein echter Speedcubing Timer
+• Zufällige Scrambles für 3x3, 2x2 und 4x4 mit Vorschau
+• Bestzeit, Ao5 und Ao12, +2 und DNF, alle Zeiten im Verlauf
+
+✔ AUSSERDEM
+• Funktioniert offline, ohne Internet
+• Kein Konto, keine Anmeldung
+• Hell und dunkel
+
+Für alle, die einen Zauberwürfel geschenkt bekommen haben und ihn nicht mehr lösen können, für Anfänger, die die Ebenen-Methode lernen wollen, und für Speedcuber mit einem sauberen Cube Timer.
+
+Scannen, lösen, lernen: Diese App macht aus einem verdrehten Würfel einen gelösten und zeigt dir, wie du es beim nächsten Mal allein schaffst.

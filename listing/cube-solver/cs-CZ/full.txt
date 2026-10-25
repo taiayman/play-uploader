@@ -1,0 +1,28 @@
+Kostka je zamíchaná a nevíš jak dál? Namiř na ni fotoaparát a aplikace najde řešení během pár sekund. Pak ji skládej tah po tahu na 3D kostce, svým tempem, dokud není hotová každá strana.
+
+Pro kostku 3x3 (speedcube), 2x2 i 4x4. Rubikova kostka nebo hlavolam: pokud má šest barev, tato aplikace ji složí.
+
+📷 SKENOVÁNÍ FOTOAPARÁTEM
+• Ukaž každou stěnu fotoaparátu, barva každé nálepky se zobrazí hned
+• Automatické vyfocení, když kostku držíš v klidu
+• Funguje s jakýmkoli barevným schématem a při běžném světle
+• Klepnutím nálepku opravíš, nebo zadej barvy ručně
+• Před řešením aplikace kostku zkontroluje a řekne, kterou barvu ověřit
+
+🧊 ŘEŠENÍ KROK ZA KROKEM VE 3D
+• 3D kostka ukazuje každý tah, šipka značí stěnu, kterou otočit
+• Další, Zpět a Přehrát, rychlost 0,5×, 1× nebo 2×
+• 3x3: zhruba 20 tahů, 2x2: nejkratší řešení, 4x4: úplné řešení včetně parity
+
+🎓 NAUČ SE SLOŽIT KOSTKU
+• Metoda pro začátečníky v 7 krocích, s cílem a algoritmem každého kroku ve 3D
+• Notace na pohyblivých kostkách: R, U', F2, Rw a r
+
+⏱ ČASOVAČ NA KOSTKU
+• Podrž a pusť pro start: skutečný speedcubing časovač
+• Náhodná zamíchání 3x3, 2x2 a 4x4, nejlepší čas, Ao5, Ao12, +2 a DNF
+
+✔ TAKÉ
+• Funguje offline
+• Bez účtu
+• Světlý a tmavý režim

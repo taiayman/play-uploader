@@ -1,0 +1,1 @@
+Résoudre un rubik cube avec la caméra, étape par étape en 3D. Chronomètre

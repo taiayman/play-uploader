@@ -1,0 +1,27 @@
+Naghalo ang cube mo at hindi mo na alam ang susunod? Itutok lang ang camera at hahanapin ng app ang solusyon sa ilang segundo. Pagkatapos, sundan ang bawat galaw sa 3D cube, sa sarili mong bilis, hanggang mabuo ang lahat ng mukha.
+
+Para sa 3x3 rubik cube (speed cube), 2x2 at 4x4. Basta may anim na kulay, kaya itong i-solve ng cube solver na ito.
+
+📷 I-SCAN GAMIT ANG CAMERA
+• Ipakita ang bawat mukha sa camera, makikita agad ang kulay ng bawat sticker
+• Awtomatikong kuha kapag hawak mo nang hindi gumagalaw ang cube
+• Gumagana sa kahit anong color scheme at normal na ilaw
+• I-tap ang sticker para ayusin, o ilagay ang mga kulay nang mano-mano
+• Sinusuri muna ang cube at sinasabi kung aling kulay ang dapat tingnan
+
+🧊 STEP BY STEP SA 3D
+• Ipinapakita ng 3D cube ang bawat galaw, may arrow sa mukhang iikot
+• Next, Back at Play, sa 0.5×, 1× o 2× na bilis
+• 3x3: mga 20 galaw, 2x2: pinakamaikling solusyon, 4x4: buong solusyon kasama ang parity
+
+🎓 MATUTONG MAG-SOLVE
+• Beginner method sa 7 hakbang, may layunin at algorithm bawat hakbang sa 3D
+• Notation gamit ang gumagalaw na cube: R, U', F2, Rw at r
+
+⏱ CUBE TIMER
+• Pindutin nang matagal at bitawan para magsimula: totoong speedcubing timer
+• Random scrambles para sa 3x3, 2x2 at 4x4, best time, Ao5, Ao12, +2 at DNF
+
+✔ IBA PA
+• Gumagana offline, walang account
+• Light at dark mode

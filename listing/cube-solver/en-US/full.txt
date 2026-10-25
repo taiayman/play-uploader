@@ -1,0 +1,50 @@
+Stuck on a scrambled cube? Point your camera at it and Cube Solver finds the solution in seconds. Then follow it one move at a time on a 3D cube, at your own speed, until every face is solved.
+
+Works for the 3x3 magic cube (speed cube), the 2x2 pocket cube and the 4x4 cube. Whether you call it a rubik cube, a puzzle cube or a rubix cube, if it has six colors, this cube solver can solve it.
+
+📷 SCAN WITH THE CAMERA
+• Hold each face in front of the camera. Every sticker shows its detected color live
+• Auto-capture as soon as you hold the cube steady, or tap to capture
+• Works with any color scheme and in normal room light
+• Tap any sticker to fix it, or enter all colors by hand if you prefer
+• The scanner checks the cube before solving and tells you exactly what to look at if a color looks wrong
+
+🧊 SOLUTION STEP BY STEP IN 3D
+• A 3D cube shows every move, with an arrow on the face you have to turn
+• Next, Back and Play, at 0.5×, 1× or 2× speed
+• Each move is written out in plain words, like "Right face clockwise", next to the notation
+• 3x3 cube solver: about 20 moves
+• 2x2 cube solver: the shortest possible solution
+• 4x4 cube solver: full solve with parity included, step by step
+
+🎓 LEARN HOW TO SOLVE IT YOURSELF: GUIDE AND TUTORIAL
+• Beginner method in 7 steps: white cross, white corners, middle layer, yellow cross, yellow edges, place and twist the corners
+• Each step shows the goal and the algorithm, animated on a 3D cube
+• Cube notation explained with moving cubes: R, U', F2, and 4x4 moves like Rw and r
+• Easy for complete beginners. No speedcubing background needed
+
+⏱ SPEEDCUBE TIMER
+• Hold to start, release to go: a real speedcubing timer
+• Random scrambles for 3x3, 2x2 and 4x4 with a preview of the scrambled cube
+• Best time, Ao5 and Ao12, +2 and DNF, full history of your solves
+
+✔ ALSO
+• Works offline: no wifi or internet needed to solve
+• No account, no sign-up
+• Light and dark mode
+
+Who is it for? Anyone who got a cube as a gift and can't get it back, beginners who want to learn the layer-by-layer method, and speedcubers who want a clean cube timer with real scrambles.
+
+HOW TO SOLVE A CUBE WITH THE APP
+1. Pick 3x3, 2x2 or 4x4
+2. Scan the six faces with the camera, in the order shown on screen
+3. Check the colors, then tap Solve
+4. Hold the cube like the 3D cube on screen and follow the arrows
+
+QUESTIONS
+Does it work with a 2x2 pocket cube or a 4x4 cube? Yes, both, with the camera or by hand.
+Do I need internet? No. The cube solver works offline.
+My stickers are not the standard colors. Any six colors work, the app groups them for you.
+Can I learn instead of just copying moves? Yes, the Learn tab teaches the beginner method step by step.
+
+Scan it, solve it, learn it. Cube Solver turns a scrambled cube into a solved one, and teaches you how to do it alone next time.

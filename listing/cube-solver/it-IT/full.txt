@@ -1,0 +1,38 @@
+Il tuo cubo è mescolato e non sai come andare avanti? Inquadralo con la fotocamera e l'app trova la soluzione in pochi secondi. Poi seguila mossa dopo mossa su un cubo 3D, al tuo ritmo, finché ogni faccia è completa.
+
+Per il cubo magico 3x3 (speed cube), il 2x2 e il 4x4. Cubo di rubik, cubo magico o rompicapo: se ha sei colori, questa app per risolvere il cubo lo risolve.
+
+📷 SCANSIONA CON LA FOTOCAMERA
+• Mostra ogni faccia alla fotocamera, il colore di ogni adesivo appare dal vivo
+• Scatto automatico appena tieni il cubo fermo
+• Funziona con qualsiasi schema di colori e con luce normale
+• Tocca un adesivo per correggerlo, o inserisci i colori a mano
+• Prima di risolvere, l'app controlla il cubo e ti dice quale colore verificare
+
+🧊 SOLUZIONE PASSO PASSO IN 3D
+• Un cubo 3D mostra ogni mossa, con una freccia sulla faccia da girare
+• Avanti, Indietro e Play, a velocità 0,5×, 1× o 2×
+• Ogni mossa scritta in parole semplici, come "Faccia destra in senso orario"
+• Risolvere il cubo 3x3: circa 20 mosse
+• Risolvere il 2x2: la soluzione più breve possibile
+• Risolvere il 4x4: soluzione completa, parità inclusa
+
+🎓 IMPARA A RISOLVERE IL CUBO DI RUBIK
+• Metodo per principianti in 7 passi: croce bianca, angoli bianchi, strato centrale, croce gialla, spigoli gialli, posizionare e orientare gli angoli
+• Ogni passo mostra l'obiettivo e l'algoritmo, animato in 3D
+• Notazione spiegata con cubi in movimento: R, U', F2 e mosse 4x4 come Rw e r
+• Ideale per chi parte da zero
+
+⏱ TIMER PER IL CUBO
+• Tieni premuto e rilascia: un vero timer da speedcubing
+• Mescolate casuali per 3x3, 2x2 e 4x4 con anteprima
+• Miglior tempo, Ao5 e Ao12, +2 e DNF, storico completo
+
+✔ INOLTRE
+• Funziona offline, senza internet
+• Nessun account, nessuna registrazione
+• Tema chiaro e scuro
+
+Per chi ha ricevuto un cubo in regalo e non riesce a risolverlo, per i principianti che vogliono imparare il metodo a strati e per gli speedcuber che cercano un timer pulito.
+
+Scansiona, risolvi, impara: l'app trasforma un cubo mescolato in un cubo risolto e ti insegna a farlo da solo la prossima volta.

@@ -1,0 +1,1 @@
+Rubik küp çözme programı: kamerayla tara, adım adım 3D çöz. 3x3 2x2 4x4

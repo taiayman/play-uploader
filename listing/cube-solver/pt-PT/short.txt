@@ -1,0 +1,1 @@
+Resolver o cubo mágico com a câmara, passo a passo em 3D. Rubik, 2x2, 4x4

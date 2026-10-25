@@ -1,0 +1,1 @@
+Rezolvă cubul rubik cu camera, pas cu pas în 3D. 2x2, 4x4 și cronometru, offline

@@ -1,0 +1,27 @@
+Er kuben blandet, og vet du ikke hvordan du skal fortsette? Rett kameraet mot den, så finner appen løsningen på noen sekunder. Følg deretter trekk for trekk på en 3D-kube, i ditt eget tempo, til hver side er ferdig.
+
+For 3x3-kuben (speedcube), 2x2 og 4x4. Rubiks kube eller magisk kube: har den seks farger, løser denne kubeløseren den.
+
+📷 SKANN MED KAMERAET
+• Vis hver side til kameraet, fargen på hver rute vises med en gang
+• Automatisk bilde når du holder kuben stille
+• Fungerer med alle fargeskjemaer og vanlig lys
+• Trykk på en rute for å rette den, eller skriv inn fargene selv
+• Før løsningen sjekkes kuben, og du får vite hvilken farge du må kontrollere
+
+🧊 STEG FOR STEG I 3D
+• En 3D-kube viser hvert trekk, med en pil på siden du skal vri
+• Neste, Tilbake og Spill av, hastighet 0,5×, 1× eller 2×
+• 3x3: rundt 20 trekk, 2x2: korteste løsning, 4x4: full løsning med paritet
+
+🎓 LÆR Å LØSE KUBEN
+• Nybegynnermetode i 7 steg, med mål og algoritme for hvert steg i 3D
+• Notasjon med bevegelige kuber: R, U', F2, Rw og r
+
+⏱ KUBETIMER
+• Hold inne og slipp for å starte: en ekte speedcubing-timer
+• Tilfeldige scrambles for 3x3, 2x2 og 4x4, beste tid, Ao5, Ao12, +2 og DNF
+
+✔ OGSÅ
+• Fungerer offline, ingen konto
+• Lyst og mørkt tema

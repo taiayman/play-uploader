@@ -1,0 +1,26 @@
+Kocka je izmiješana i ne znaš kako dalje? Usmjeri kameru prema njoj i aplikacija pronalazi rješenje za nekoliko sekundi. Zatim prati potez po potez na 3D kocki, svojim tempom, dok svaka strana ne bude gotova.
+
+Za kocku 3x3 (speedcube), 2x2 i 4x4. Rubikova kocka ili čarobna kocka: ako ima šest boja, ovaj rješavač kocke je slaže.
+
+📷 SKENIRANJE KAMEROM
+• Pokaži svaku stranu kameri, boja svake naljepnice vidi se odmah
+• Automatsko snimanje kada kocku držiš mirno
+• Dodirni naljepnicu za ispravak ili unesi boje ručno
+• Prije rješavanja kocka se provjerava i dobiješ poruku koju boju provjeriti
+
+🧊 KORAK PO KORAK U 3D
+• 3D kocka prikazuje svaki potez, strelica pokazuje stranu za okretanje
+• Dalje, Natrag i Reproduciraj, brzina 0,5×, 1× ili 2×
+• 3x3: oko 20 poteza, 2x2: najkraće rješenje, 4x4: potpuno rješenje s paritetom
+
+🎓 NAUČI SLOŽITI KOCKU
+• Metoda za početnike u 7 koraka, s ciljem i algoritmom svakog koraka u 3D
+• Notacija na pokretnim kockama: R, U', F2, Rw i r
+
+⏱ ŠTOPERICA
+• Drži i pusti za početak: prava speedcubing štoperica
+• Nasumična miješanja 3x3, 2x2 i 4x4, najbolje vrijeme, Ao5, Ao12, +2 i DNF
+
+✔ TAKOĐER
+• Radi bez interneta, bez računa
+• Svijetla i tamna tema

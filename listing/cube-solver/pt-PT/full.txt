@@ -1,0 +1,38 @@
+Seu cubo mágico está embaralhado e você travou? Aponte a câmara para ele e o app encontra a solução em segundos. Depois é só seguir movimento por movimento em um cubo 3D, no seu ritmo, até montar todas as faces.
+
+Funciona com o cubo mágico 3x3 (speed cube), o 2x2 e o 4x4. Cubo mágico, cubo de rubik ou cubo rubik: se tem seis cores, este app resolve.
+
+📷 ESCANEIE COM A CÂMERA
+• Mostre cada face para a câmara: cada adesivo mostra a cor detectada ao vivo
+• Captura automática quando você segura o cubo parado
+• Funciona com qualquer esquema de cores e com luz normal
+• Toque em um adesivo para corrigir, ou digite as cores à mão
+• Antes de resolver, o app confere o cubo e mostra exatamente qual cor verificar
+
+🧊 SOLUÇÃO PASSO A PASSO EM 3D
+• Um cubo 3D mostra cada movimento, com uma seta na face que você deve girar
+• Próximo, Voltar e Reproduzir, em velocidade 0,5×, 1× ou 2×
+• Cada movimento escrito em palavras simples, como "Face direita no sentido horário"
+• Resolver cubo mágico 3x3: cerca de 20 movimentos
+• Resolver 2x2: a solução mais curta possível
+• Resolver 4x4: solução completa, com paridade
+
+🎓 CUBO MÁGICO: APRENDER A MONTAR
+• Método para iniciantes em 7 etapas: cruz branca, cantos brancos, camada do meio, cruz amarela, arestas amarelas, posicionar e orientar os cantos
+• Cada etapa mostra o objetivo e o algoritmo, animado em 3D
+• Notação explicada com cubos em movimento: R, U', F2 e movimentos 4x4 como Rw e r
+• Ideal para quem está começando do zero
+
+⏱ CRONÔMETRO DE CUBO MÁGICO
+• Segure para começar, solte para iniciar: um timer de speedcube de verdade
+• Embaralhamentos aleatórios para 3x3, 2x2 e 4x4 com prévia
+• Melhor tempo, Ao5 e Ao12, +2 e DNF, histórico completo
+
+✔ E MAIS
+• Funciona offline, sem internet
+• Sem conta e sem registo
+• Modo claro e escuro
+
+Para quem ganhou um cubo mágico e não consegue montar, iniciantes que querem aprender o método de camadas e cubistas que querem um cronômetro limpo.
+
+Digitalize, resolva e aprenda: o app transforma um cubo embaralhado em um cubo montado e ensina você a fazer sozinho da próxima vez.

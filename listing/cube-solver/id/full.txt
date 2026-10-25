@@ -1,0 +1,38 @@
+Rubik kamu teracak dan bingung cara menyelesaikannya? Arahkan kamera ke kubus dan aplikasi ini menemukan solusinya dalam hitungan detik. Lalu ikuti gerakan satu per satu di kubus 3D, sesuai kecepatanmu, sampai semua sisi selesai.
+
+Bisa untuk rubik 3x3 (speed cube), rubik 2x2 dan rubik 4x4. Mau disebut rubik, kubus rubik atau magic cube, selama punya enam warna, aplikasi pemecah rubik ini bisa menyelesaikannya.
+
+📷 PINDAI DENGAN KAMERA
+• Arahkan setiap sisi ke kamera, warna setiap stiker terbaca langsung
+• Foto otomatis saat kubus dipegang diam
+• Bisa untuk semua skema warna dan cahaya ruangan biasa
+• Ketuk stiker untuk memperbaiki, atau isi warna secara manual
+• Sebelum menyelesaikan, aplikasi memeriksa kubus dan memberi tahu warna mana yang perlu dicek
+
+🧊 SOLUSI LANGKAH DEMI LANGKAH DALAM 3D
+• Kubus 3D menunjukkan setiap gerakan, dengan panah di sisi yang harus diputar
+• Lanjut, Kembali dan Putar, dengan kecepatan 0,5×, 1× atau 2×
+• Setiap gerakan dijelaskan dengan kata sederhana, misalnya "Sisi kanan searah jarum jam"
+• Rubik 3x3: sekitar 20 gerakan
+• Rubik 2x2: solusi terpendek
+• Rubik 4x4: solusi lengkap, termasuk parity
+
+🎓 CARA MENYELESAIKAN RUBIK SENDIRI (TUTORIAL)
+• Metode pemula 7 langkah: silang putih, sudut putih, lapisan tengah, silang kuning, sisi kuning, menempatkan dan memutar sudut
+• Setiap langkah menunjukkan tujuan dan rumus, dengan animasi 3D
+• Notasi dijelaskan dengan kubus bergerak: R, U', F2 dan gerakan 4x4 seperti Rw dan r
+• Cocok untuk pemula (rubik for beginners) yang belum pernah belajar
+
+⏱ TIMER RUBIK
+• Tahan untuk mulai, lepas untuk jalan: timer speedcubing sungguhan
+• Acakan rubik 3x3, 2x2 dan 4x4 dengan pratinjau
+• Waktu terbaik, Ao5 dan Ao12, +2 dan DNF, riwayat lengkap
+
+✔ LAINNYA
+• Bisa offline, tanpa internet
+• Tanpa akun, tanpa daftar
+• Mode terang dan gelap
+
+Cocok untuk yang dapat rubik sebagai hadiah tapi tidak bisa menyelesaikannya, pemula yang ingin belajar cara menyelesaikan rubik dengan mudah, dan speedcuber yang butuh timer rubik yang rapi.
+
+Pindai, selesaikan, pelajari: aplikasi rubik ini mengubah kubus teracak jadi selesai, dan mengajarkan cara menyelesaikan rubik dengan cepat sendiri lain kali.

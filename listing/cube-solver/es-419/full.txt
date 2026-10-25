@@ -1,0 +1,38 @@
+¿Tu cubo rubik está revuelto y no sabes cómo seguir? Apunta la cámara y la app encuentra la solución en segundos. Luego síguela movimiento por movimiento en un cubo 3D, a tu ritmo, hasta armar todas las caras.
+
+Funciona con el cubo mágico 3x3 (speed cube), el 2x2 y el 4x4. Cubo de rubik, cubo rubik o cubo mágico para resolver: si tiene seis colores, esta app lo resuelve.
+
+📷 ESCANEA CON LA CÁMARA
+• Muestra cada cara a la cámara: cada sticker indica su color en vivo
+• Captura automática cuando sostienes el cubo quieto
+• Funciona con cualquier esquema de colores y con luz normal
+• Toca un sticker para corregirlo, o ingresa los colores a mano
+• Antes de resolver, la app revisa el cubo y te dice exactamente qué color revisar
+
+🧊 SOLUCIÓN PASO A PASO EN 3D
+• Un cubo 3D muestra cada movimiento, con una flecha en la cara que debes girar
+• Siguiente, Atrás y Reproducir, a velocidad 0,5×, 1× o 2×
+• Cada movimiento explicado con palabras simples, como "Cara derecha en sentido horario"
+• Resolver cubo rubik 3x3: unos 20 movimientos
+• Resolver 2x2: la solución más corta posible
+• Resolver 4x4: solución completa, con paridad incluida
+
+🎓 APRENDE A ARMAR EL CUBO
+• Método para principiantes en 7 pasos: cruz blanca, esquinas blancas, capa media, cruz amarilla, aristas amarillas, colocar y orientar las esquinas
+• Cada paso muestra el objetivo y el algoritmo, animado en 3D
+• Notación explicada con cubos en movimiento: R, U', F2 y movimientos 4x4 como Rw y r
+• Ideal para principiantes desde cero
+
+⏱ CRONÓMETRO PARA CUBO
+• Mantén para empezar, suelta para arrancar: un timer de speedcubing de verdad
+• Mezclas aleatorias para 3x3, 2x2 y 4x4 con vista previa
+• Mejor tiempo, Ao5 y Ao12, +2 y DNF, historial completo
+
+✔ ADEMÁS
+• Funciona sin internet
+• Sin cuenta y sin registro
+• Modo claro y oscuro
+
+Para quien recibió un cubo de regalo y no lo puede armar, principiantes que quieren aprender el método por capas y cuberos que buscan un cronómetro limpio.
+
+Escanea, resuelve y aprende: la app convierte un cubo revuelto en uno armado y te enseña a hacerlo solo la próxima vez.

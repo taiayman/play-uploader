@@ -1,0 +1,1 @@
+Risolvere il cubo di rubik con la fotocamera, passo passo in 3D. 2x2 e timer

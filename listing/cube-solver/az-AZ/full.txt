@@ -1,0 +1,26 @@
+Kub qarışıb və necə davam edəcəyini bilmirsən? Kameranı kuba tut, tətbiq bir neçə saniyəyə həlli tapsın. Sonra 3D kubda hərəkət-hərəkət, öz sürətinlə, bütün tərəflər düzələnə qədər izlə.
+
+3x3 rubik kubu (speedcube), 2x2 və 4x4 üçün. Altı rəngi varsa, bu kub həll edici onu həll edir.
+
+📷 KAMERA İLƏ SKAN
+• Hər tərəfi kameraya göstər, hər stikerin rəngi dərhal görünür
+• Kubu sabit saxlayanda avtomatik çəkiliş
+• Stikerə toxunaraq düzəlt və ya rəngləri əl ilə daxil et
+• Həlldən əvvəl kub yoxlanılır və hansı rəngə baxmaq lazım olduğu deyilir
+
+🧊 3D-DƏ ADDIM-ADDIM
+• 3D kub hər hərəkəti göstərir, fırladılacaq tərəfdə ox var
+• Növbəti, Geri və Oynat, 0,5×, 1× və ya 2× sürət
+• 3x3: təxminən 20 hərəkət, 2x2: ən qısa həll, 4x4: paritet daxil tam həll
+
+🎓 ÖZÜN HƏLL ETMƏYİ ÖYRƏN
+• Yeni başlayanlar üçün 7 addımlı üsul, hər addımın məqsədi və alqoritmi 3D-də
+• Hərəkətli kublarla notasiya: R, U', F2, Rw və r
+
+⏱ KUB TAYMERİ
+• Basıb saxla və burax: əsl speedcubing taymeri
+• 3x3, 2x2 və 4x4 üçün təsadüfi qarışdırmalar, ən yaxşı vaxt, Ao5, Ao12, +2 və DNF
+
+✔ HƏMÇİNİN
+• İnternetsiz işləyir, hesab tələb olunmur
+• Açıq və tünd rejim

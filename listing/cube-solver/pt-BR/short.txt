@@ -1,0 +1,1 @@
+Resolver cubo mágico com a câmera, passo a passo em 3D. Rubik, 2x2 e cronômetro

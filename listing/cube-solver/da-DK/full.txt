@@ -1,0 +1,27 @@
+Er terningen blandet, og ved du ikke, hvordan du kommer videre? Peg kameraet mod den, og appen finder løsningen på få sekunder. Følg derefter træk for træk på en 3D-terning, i dit eget tempo, til hver side er færdig.
+
+Til 3x3-terningen (speedcube), 2x2 og 4x4. Rubiks terning eller magisk terning: har den seks farver, løser denne terningløser den.
+
+📷 SCAN MED KAMERAET
+• Vis hver side til kameraet, farven på hvert felt vises med det samme
+• Automatisk billede, når du holder terningen stille
+• Virker med alle farveskemaer og almindeligt lys
+• Tryk på et felt for at rette det, eller indtast farverne selv
+• Før løsningen tjekkes terningen, og du får at vide, hvilken farve du skal kontrollere
+
+🧊 TRIN FOR TRIN I 3D
+• En 3D-terning viser hvert træk med en pil på den side, du skal dreje
+• Næste, Tilbage og Afspil, hastighed 0,5×, 1× eller 2×
+• 3x3: omkring 20 træk, 2x2: korteste løsning, 4x4: fuld løsning med paritet
+
+🎓 LÆR AT LØSE TERNINGEN
+• Begyndermetode i 7 trin med mål og algoritme for hvert trin i 3D
+• Notation med bevægelige terninger: R, U', F2, Rw og r
+
+⏱ TERNINGTIMER
+• Hold nede og slip for at starte: en rigtig speedcubing-timer
+• Tilfældige scrambles til 3x3, 2x2 og 4x4, bedste tid, Ao5, Ao12, +2 og DNF
+
+✔ OGSÅ
+• Virker offline, ingen konto
+• Lyst og mørkt tema

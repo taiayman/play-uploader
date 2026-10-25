@@ -1,0 +1,1 @@
+Složi rubikovu kocku kamerom, korak po korak u 3D. 2x2, 4x4 i štoperica, offline

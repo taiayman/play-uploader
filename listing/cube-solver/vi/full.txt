@@ -1,0 +1,38 @@
+Khối rubik bị xáo trộn và bạn không biết giải tiếp? Hướng camera vào khối và ứng dụng tìm ra lời giải trong vài giây. Sau đó làm theo từng bước trên khối 3D, theo tốc độ của bạn, cho đến khi mọi mặt đều xong.
+
+Hỗ trợ rubik 3x3 (speed cube), rubik 2x2 và rubik 4x4. Chỉ cần khối có sáu màu, ứng dụng giải rubik này đều giải được.
+
+📷 QUÉT BẰNG CAMERA
+• Đưa từng mặt vào camera, màu từng ô được nhận diện trực tiếp
+• Tự động chụp khi bạn giữ khối yên
+• Dùng được với mọi bảng màu và ánh sáng trong phòng
+• Chạm vào ô để sửa màu, hoặc nhập màu bằng tay
+• Trước khi giải, ứng dụng kiểm tra khối và chỉ ra màu nào cần xem lại
+
+🧊 LỜI GIẢI TỪNG BƯỚC 3D
+• Khối 3D hiển thị từng bước, có mũi tên trên mặt cần xoay
+• Tiếp, Lùi và Phát, tốc độ 0,5×, 1× hoặc 2×
+• Mỗi bước được mô tả bằng lời dễ hiểu, như "Xoay mặt phải theo chiều kim đồng hồ"
+• Giải rubik 3x3: khoảng 20 bước
+• Giải rubik 2x2: lời giải ngắn nhất
+• Giải rubik 4x4: lời giải đầy đủ, có xử lý parity
+
+🎓 HỌC CÁCH GIẢI RUBIK
+• Phương pháp cho người mới 7 bước: dấu cộng trắng, góc trắng, tầng giữa, dấu cộng vàng, cạnh vàng, đặt và xoay góc
+• Mỗi bước có mục tiêu và công thức, minh họa 3D
+• Ký hiệu được giải thích bằng khối chuyển động: R, U', F2 và bước 4x4 như Rw, r
+• Phù hợp người mới bắt đầu
+
+⏱ RUBIK TIMER
+• Giữ để chuẩn bị, thả để bấm giờ: đồng hồ speedcubing thật sự
+• Xáo trộn ngẫu nhiên 3x3, 2x2 và 4x4 kèm hình xem trước
+• Thời gian tốt nhất, Ao5, Ao12, +2 và DNF, lịch sử đầy đủ
+
+✔ NGOÀI RA
+• Giải rubik offline, không cần internet
+• Không cần tài khoản
+• Chế độ sáng và tối
+
+Dành cho người được tặng khối rubik nhưng không giải được, người mới muốn học cách giải rubik theo tầng, và speedcuber cần một rubik timer gọn gàng.
+
+Quét, giải, học: ứng dụng biến khối rubik xáo trộn thành hoàn chỉnh và dạy bạn tự giải vào lần sau.

@@ -104,6 +104,26 @@ async function main() {
     console.log('uploaded', files.length, imageType);
   }
 
+  // Per-language phone screenshots: <dir>/<locale>/screenshots/phone/*.png.
+  // Languages without that folder fall back to the en-US set on Play.
+  for (const locale of locales) {
+    const full = path.join(dir, locale, 'screenshots', 'phone');
+    if (locale === 'en-US' || !fs.existsSync(full)) continue;
+    const files = fs.readdirSync(full).filter((f) => /\.(png|jpg|jpeg)$/i.test(f)).sort();
+    if (!files.length) continue;
+    await play.edits.images.deleteall({ packageName: pkg, editId, language: locale, imageType: 'phoneScreenshots' });
+    for (const f of files) {
+      await play.edits.images.upload({
+        packageName: pkg,
+        editId,
+        language: locale,
+        imageType: 'phoneScreenshots',
+        media: { mimeType: 'image/png', body: fs.createReadStream(path.join(full, f)) },
+      });
+    }
+    console.log('uploaded', files.length, 'phoneScreenshots for', locale);
+  }
+
   // Unpublished apps with outstanding declarations often refuse a normal
   // commit; changesNotSentForReview parks the changes until the human forms
   // are answered in the console.

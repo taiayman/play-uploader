@@ -1,0 +1,27 @@
+Kuutio on sekaisin etkä tiedä, miten jatkaa? Osoita kameralla kuutiota, niin sovellus löytää ratkaisun muutamassa sekunnissa. Seuraa sitten siirto siirrolta 3D-kuutiolla omaan tahtiisi, kunnes jokainen sivu on valmis.
+
+3x3-kuutiolle (speedcube), 2x2:lle ja 4x4:lle. Rubikin kuutio tai taikakuutio: jos siinä on kuusi väriä, tämä kuutionratkaisija ratkaisee sen.
+
+📷 SKANNAA KAMERALLA
+• Näytä jokainen sivu kameralle, jokaisen tarran väri näkyy heti
+• Automaattinen kuva, kun pidät kuution paikallaan
+• Toimii kaikilla värijärjestyksillä ja tavallisessa valossa
+• Napauta tarraa korjataksesi sen tai syötä värit itse
+• Ennen ratkaisua kuutio tarkistetaan ja kerrotaan, mikä väri pitää tarkistaa
+
+🧊 VAIHE VAIHEELTA 3D:NÄ
+• 3D-kuutio näyttää jokaisen siirron, nuoli osoittaa käännettävän sivun
+• Seuraava, Takaisin ja Toista, nopeus 0,5×, 1× tai 2×
+• 3x3: noin 20 siirtoa, 2x2: lyhin ratkaisu, 4x4: täysi ratkaisu pariteetin kanssa
+
+🎓 OPI RATKAISEMAAN ITSE
+• Aloittelijan menetelmä 7 vaiheessa, jokaisen vaiheen tavoite ja algoritmi 3D:nä
+• Merkinnät liikkuvilla kuutioilla: R, U', F2, Rw ja r
+
+⏱ AJASTIN
+• Pidä painettuna ja päästä irti: oikea speedcubing-ajastin
+• Satunnaiset sekoitukset 3x3, 2x2 ja 4x4, paras aika, Ao5, Ao12, +2 ja DNF
+
+✔ LISÄKSI
+• Toimii ilman nettiä, ei tiliä
+• Vaalea ja tumma teema

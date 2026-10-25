@@ -1,0 +1,38 @@
+Zeka küpün karıştı ve nasıl çözüleceğini bilmiyor musun? Kamerayı küpe tut, uygulama çözümü saniyeler içinde bulsun. Sonra 3D küpte hamle hamle, kendi hızında takip et ve tüm yüzleri tamamla.
+
+3x3 rubik küp (speed cube), 2x2 ve 4x4 küp için bir rubik solver ve küp düzeltme uygulaması. Rubik küp, zeka küpü ya da sihirli küp: altı rengi varsa bu küp çözücü onu çözer.
+
+📷 KAMERAYLA TARA
+• Her yüzü kameraya göster, her çıkartmanın rengi canlı okunur
+• Küpü sabit tuttuğunda otomatik çekim
+• Her renk düzeniyle ve normal oda ışığında çalışır
+• Bir çıkartmaya dokunup düzelt ya da renkleri elle gir
+• Çözmeden önce küpü kontrol eder ve hangi rengin yanlış olduğunu söyler
+
+🧊 ADIM ADIM 3D ÇÖZÜM
+• 3D küp her hamleyi gösterir, çevirmen gereken yüzde bir ok vardır
+• İleri, Geri ve Oynat, 0,5×, 1× veya 2× hızda
+• Her hamle sade kelimelerle yazılır: "Sağ yüz saat yönünde" gibi
+• 3x3 zeka küpü çözme: yaklaşık 20 hamle
+• 2x2 çözme: mümkün olan en kısa çözüm
+• 4x4 çözme: parite dahil tam çözüm
+
+🎓 RUBİK KÜP NASIL ÇÖZÜLÜR, ÖĞREN
+• 7 adımda başlangıç yöntemi: beyaz artı, beyaz köşeler, orta katman, sarı artı, sarı kenarlar, köşeleri yerleştirme ve çevirme
+• Her adımda hedef ve algoritma, 3D animasyonla
+• Notasyon hareketli küplerle anlatılır: R, U', F2 ve Rw, r gibi 4x4 hamleleri
+• Sıfırdan başlayanlar için kolay bir zeka küpü bulmaca rehberi
+
+⏱ ZEKA KÜPÜ KRONOMETRESİ VE SAYACI
+• Basılı tut, bırak ve başla: gerçek bir speedcube zamanlayıcı ve saniye tutucu
+• 3x3, 2x2 ve 4x4 için önizlemeli rastgele karıştırmalar
+• En iyi süre, Ao5 ve Ao12, +2 ve DNF, tüm geçmiş
+
+✔ AYRICA
+• İnternetsiz çalışır
+• Hesap yok, kayıt yok
+• Açık ve koyu mod
+
+Hediye gelen küpü çözemeyenler, çocuğuna yardım eden aileler, katman yöntemini öğrenmek isteyen yeni başlayanlar ve temiz bir kronometre arayan speedcuber'lar için.
+
+Tara, çöz, öğren: bu rubik küp çözme uygulaması karışık küpü çözer ve bir dahaki sefere tek başına nasıl yapacağını öğretir.
